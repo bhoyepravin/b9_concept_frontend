@@ -1,0 +1,58 @@
+{
+  "section": {
+    "title": "B9Concept vs. Traditional Approaches",
+    "classes": "py-20 bg-light-gray"
+  },
+  "table": {
+    "headers": [
+      {
+        "label": "",
+        "classes": "p-4 border-b-2 border-deep-blue"
+      },
+      {
+        "label": "TRADITIONAL",
+        "classes": "p-4 border-b-2 border-deep-blue text-center bg-white rounded-t-lg",
+        "textClasses": "text-2xl font-bold text-urgent-red"
+      },
+      {
+        "label": "B9CONCEPT",
+        "classes": "p-4 border-b-2 border-deep-blue text-center bg-white rounded-t-lg",
+        "textClasses": "text-2xl font-bold text-wellness-green"
+      }
+    ],
+    "rows": [
+      {
+        "category": "Focus",
+        "traditional": "Symptom Management",
+        "b9concept": "Root Cause Resolution"
+      },
+      {
+        "category": "Approach",
+        "traditional": "Mask, Medicate, Cope",
+        "b9concept": "Find & Erase the Source"
+      },
+      {
+        "category": "Method",
+        "traditional": "Talk Therapy & Pharmaceuticals",
+        "b9concept": "Bio-Energetic & Cognitive Reframing"
+      },
+      {
+        "category": "Duration",
+        "traditional": "Years / Lifelong",
+        "b9concept": "Same Day",
+        "b9conceptClasses": "font-semibold text-wellness-green"
+      },
+      {
+        "category": "Outcome",
+        "traditional": "Dependency & Recurring Issues",
+        "b9concept": "Permanent Resolution & Resilience"
+      },
+      {
+        "category": "Cost Over 5 Years",
+        "traditional": "$10,000 - $100,000+",
+        "b9concept": "Nominal",
+        "b9conceptClasses": "font-semibold text-wellness-green"
+      }
+    ]
+  }
+}

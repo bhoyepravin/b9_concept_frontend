@@ -1,0 +1,42 @@
+{
+  "section": {
+    "id": "stories",
+    "classes": "py-20 bg-white",
+    "title": "Thousands Transformed. Real Stories."
+  },
+  "testimonials": [
+    {
+      "id": 1,
+      "initials": "SK",
+      "name": "SARAH K.",
+      "condition": "Anxiety & Panic Attacks",
+      "testimonial": "\"I had severe anxiety and panic attacks for years. B9 Concept was my last hope. The process was unbelievable, I felt a weight lift off me that I had been carrying my whole life. I am finally free.\"",
+      "image": "https://placehold.co/100x100/F5F5F5/2C3E50?text=SK"
+    },
+    {
+      "id": 2,
+      "initials": "JL",
+      "name": "JESSICA L.",
+      "condition": "Chronic Digestive Issues",
+      "testimonial": "\"After years of unexplained digestive issues and seeing countless specialists, I found B9. Niki helped me see the emotional root of my physical pain. It's not just symptom relief; it's true restoration from the inside out.\"",
+      "image": "https://placehold.co/100x100/F5F5F5/2C3E50?text=JL"
+    },
+    {
+      "id": 3,
+      "initials": "MP",
+      "name": "MICHAEL P.",
+      "condition": "Executive Burnout & Stress",
+      "testimonial": "\"The burnout from my career was affecting my health and relationships. I was skeptical, but the B9 process provided a level of clarity I've never experienced. I feel like myself again, but a stronger, more resilient version.\"",
+      "image": "https://placehold.co/100x100/F5F5F5/2C3E50?text=MP"
+    }
+  ],
+  "styles": {
+    "container": "max-w-3xl mx-auto bg-light-gray p-8 rounded-lg shadow-xl relative overflow-hidden",
+    "slide": "text-center p-4",
+    "image": "rounded-full mx-auto mb-4 border-4 border-hope-gold",
+    "text": "text-lg italic text-dark-gray",
+    "name": "font-bold text-deep-blue mt-4",
+    "condition": "text-medium-gray",
+    "dotsContainer": "absolute bottom-4 left-1/2 -translate-x-1/2 flex space-x-2"
+  }
+}

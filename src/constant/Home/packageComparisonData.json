@@ -1,0 +1,84 @@
+{
+  "section": {
+    "containerClasses": "max-w-6xl mx-auto bg-light-gray p-8 rounded-lg shadow-lg overflow-x-auto",
+    "title": "Package Comparison",
+    "titleClasses": "text-2xl font-semibold font-montserrat text-deep-blue text-center mb-6"
+  },
+  "table": {
+    "classes": "w-full text-left border-collapse min-w-[700px]",
+    "header": {
+      "rowClasses": "border-b-2 border-gray-300",
+      "columns": [
+        {
+          "label": "Feature",
+          "classes": "p-4 text-left font-semibold text-deep-blue uppercase"
+        },
+        {
+          "label": "Cognitive",
+          "classes": "p-4 text-center font-semibold text-deep-blue uppercase"
+        },
+        {
+          "label": "Complete",
+          "classes": "p-4 text-center font-semibold text-deep-blue uppercase"
+        },
+        {
+          "label": "Executive",
+          "classes": "p-4 text-center font-semibold text-deep-blue uppercase"
+        }
+      ]
+    },
+    "rows": [
+      {
+        "feature": "Primary Focus",
+        "packages": [
+          "Specific Issue Resolution",
+          "Chronic Pattern Resolution",
+          "Total Life & Performance Optimization"
+        ],
+        "rowClass": "bg-white"
+      },
+      {
+        "feature": "Dedicated Session Length",
+        "packages": ["90 minutes", "4 hours", "8 hours (Full Day)"],
+        "rowClass": "bg-gray-50"
+      },
+      {
+        "feature": "Assessment",
+        "packages": [
+          "Multi-System",
+          "Extended Multi-System",
+          "Comprehensive Life Blueprint"
+        ],
+        "rowClass": "bg-white"
+      },
+      {
+        "feature": "Recovery Modalities",
+        "packages": ["Core", "Multiple Advanced", "All Available Protocols"],
+        "rowClass": "bg-gray-50"
+      },
+      {
+        "feature": "Guided Integration",
+        "packages": [
+          "Self-Guided Plan",
+          "1 Follow-up Session",
+          "Weekly (12 Weeks)"
+        ],
+        "rowClass": "bg-white"
+      },
+      {
+        "feature": "Practitioner Access",
+        "packages": [
+          "Standard Email",
+          "30-Day Priority Access",
+          "90-Day Concierge"
+        ],
+        "rowClass": "bg-gray-50"
+      },
+      {
+        "feature": "Recovery Plan",
+        "packages": ["Cognitive", "Custom", "Executive Performance Plan"],
+        "rowClass": "bg-white"
+      }
+    ]
+  }
+}

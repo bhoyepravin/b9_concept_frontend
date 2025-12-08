@@ -1,0 +1,2191 @@
+{
+  "categories": [
+    {
+      "id": "category-1",
+      "title": "1. Chronic Pain & Musculoskeletal Disorders",
+      "conditions": [
+        {
+          "name": "Fibromyalgia",
+          "medicalDefinition": "Chronic disorder featuring widespread musculoskeletal pain, decreased pain threshold, and multiple tender points.",
+          "traumaConnection": "84% of patients experienced traumatic events prior to onset; 88.2% of women report childhood trauma.",
+          "prevalence": "2-6% worldwide, predominantly affecting women.",
+          "treatmentLimitations": "No cure available; central sensitization mechanisms remain poorly understood.",
+          "solution": {
+            "title": "THE B9CONCEPT SOLUTION",
+            "points": [
+              "Cognitive reframing eliminates stored trauma patterns creating widespread pain hypersensitivity and tender point activation.",
+              "Energy Aura Restoration repairs the fragmented energy field in muscles and joints, restoring normal pain processing.",
+              "Strengthens nervous system against pain amplification and sensitization patterns."
+            ]
+          }
+        },
+        {
+          "name": "Chronic Low Back Pain",
+          "medicalDefinition": "Persistent lower back pain lasting more than 3 months without clear structural cause.",
+          "traumaConnection": "50% higher prevalence in trauma survivors; stress-induced muscle tension and inflammation.",
+          "prevalence": "8-12% of global population.",
+          "treatmentLimitations": "Becomes self-perpetuating through neural pathway changes.",
+          "solution": {
+            "title": "THE B9CONCEPT SOLUTION",
+            "points": [
+              "Cognitive reframing eliminates stored trauma patterns causing muscle guarding and spinal inflammation.",
+              "Energy Aura Restoration repairs the disrupted energy field in lumbar region, restoring natural alignment.",
+              "Prevents recurring back pain episodes and spinal degeneration."
+            ]
+          }
+        },
+        {
+          "name": "Chronic Neck Pain and Cervical Disorders",
+          "medicalDefinition": "Persistent neck pain and stiffness lasting beyond normal healing time.",
+          "traumaConnection": "Both physical trauma (whiplash) and emotional trauma increase risk by 300%.",
+          "prevalence": "10-15% of adults experience chronic neck pain.",
+          "treatmentLimitations": "Chronic inflammation and muscle spasm patterns become embedded.",
+          "solution": {
+            "title": "THE B9CONCEPT SOLUTION",
+            "points": [
+              "Cognitive reframing eliminates stored trauma patterns creating cervical tension and misalignment.",
+              "Energy Aura Restoration repairs the blocked energy field in neck and shoulders, releasing chronic holding patterns.",
+              "Prevents cervical dysfunction and tension accumulation."
+            ]
+          }
+        },
+        {
+          "name": "Temporomandibular Joint Disorder (TMJ)",
+          "medicalDefinition": "Chronic jaw joint dysfunction causing pain, clicking, and limited movement.",
+          "traumaConnection": "65% of cases linked to stress-induced teeth grinding and jaw clenching.",
+          "prevalence": "5-12% of population, 3:1 female predominance.",
+          "treatmentLimitations": "Structural changes and chronic muscle tension resist treatment.",
+          "solution": {
+            "title": "THE B9CONCEPT SOLUTION",
+            "points": [
+              "Cognitive reframing eliminates stored trauma patterns causing jaw clenching and grinding behaviors.",
+              "Energy Aura Restoration repairs the disrupted energy field in temporomandibular region, restoring proper function.",
+              "Prevents stress-induced jaw dysfunction and dental complications."
+            ]
+          }
+        },
+        {
+          "name": "Complex Regional Pain Syndrome (CRPS)",
+          "medicalDefinition": "Rare neuroinflammatory disorder causing chronic pain disproportionate to initial injury.",
+          "traumaConnection": "Over 90% of cases triggered by nerve trauma or injury.",
+          "prevalence": "3:1 female predominance in adults.",
+          "treatmentLimitations": "No cure; many develop permanent disabilities despite treatment.",
+          "solution": {
+            "title": "THE B9CONCEPT SOLUTION",
+            "points": [
+              "Cognitive reframing eliminates stored trauma patterns amplifying nerve pain signals and inflammatory cascades.",
+              "Energy Aura Restoration repairs the severely disrupted energy field in affected regions, normalizing nerve function.",
+              "Prevents regional pain syndrome recurrence and spread."
+            ]
+          }
+        },
+        {
+          "name": "Chronic Headaches and Migraines",
+          "medicalDefinition": "Recurrent severe headaches with neurological symptoms lasting 4-72 hours.",
+          "traumaConnection": "73% of migraine sufferers report significant trauma history; stress is #1 trigger.",
+          "prevalence": "12% of population, affecting 1 billion people worldwide.",
+          "treatmentLimitations": "Medications provide only temporary relief; rebound headaches common.",
+          "solution": {
+            "title": "THE B9CONCEPT SOLUTION",
+            "points": [
+              "Cognitive reframing eliminates stored trauma patterns triggering vascular and neurological cascades.",
+              "Energy Aura Restoration repairs the disrupted energy field in cranial vessels and nerves.",
+              "Prevents migraine cascades and headache triggers."
+            ]
+          }
+        },
+        {
+          "name": "Tension-Type Headaches",
+          "medicalDefinition": "Most common headache disorder characterized by bilateral pressing pain.",
+          "traumaConnection": "80% correlation with chronic stress and unresolved emotional trauma.",
+          "prevalence": "40% of population experiences regular tension headaches.",
+          "treatmentLimitations": "Becomes chronic in 3% of sufferers; medication overuse common.",
+          "solution": {
+            "title": "THE B9CONCEPT SOLUTION",
+            "points": [
+              "Cognitive reframing eliminates stored trauma patterns creating scalp and neck muscle tension.",
+              "Energy Aura Restoration repairs the blocked energy field in head and neck muscles.",
+              "Prevents tension buildup and stress-induced headaches."
+            ]
+          }
+        },
+        {
+          "name": "Chronic Widespread Pain",
+          "medicalDefinition": "Persistent pain in multiple body regions lasting over 3 months.",
+          "traumaConnection": "67% have history of physical or emotional trauma; pain serves protective function.",
+          "prevalence": "10-15% of a general population.",
+          "treatmentLimitations": "Central nervous system sensitization resists conventional treatments.",
+          "solution": {
+            "title": "THE B9CONCEPT SOLUTION",
+            "points": [
+              "Cognitive reframing eliminates stored trauma patterns creating global pain hypersensitivity.",
+              "Energy Aura Restoration repairs the globally disrupted energy field throughout body systems.",
+              "Prevents global pain sensitization and spreading."
+            ]
+          }
+        },
+        {
+          "name": "Chronic Pelvic Pain",
+          "medicalDefinition": "Persistent pain in pelvic region lasting 6+ months without clear pathology.",
+          "traumaConnection": "48-84% report history of sexual trauma or abuse.",
+          "prevalence": "15-25% of women; 2-10% of men.",
+          "treatmentLimitations": "Multiple overlapping systems make treatment complex and often ineffective.",
+          "solution": {
+            "title": "THE B9CONCEPT SOLUTION",
+            "points": [
+              "Cognitive reframing eliminates stored trauma patterns creating pelvic floor dysfunction and pain.",
+              "Energy Aura Restoration repairs the disrupted energy field in pelvic organs and muscles.",
+              "Prevents pelvic dysfunction and reproductive complications."
+            ]
+          }
+        },
+        {
+          "name": "Chronic Joint Pain (Non-Arthritis)",
+          "medicalDefinition": "Persistent joint pain without inflammatory or degenerative changes.",
+          "traumaConnection": "Emotional trauma increases joint pain risk by 200% through stress hormones.",
+          "prevalence": "25% of adults report chronic joint pain.",
+          "treatmentLimitations": "Pain persists despite absence of structural damage.",
+          "solution": {
+            "title": "THE B9CONCEPT SOLUTION",
+            "points": [
+              "Cognitive reframing eliminates stored trauma patterns affecting joint capsules and ligaments.",
+              "Energy Aura Restoration repairs the disrupted energy field in joint spaces and connective tissue.",
+              "Prevents joint degeneration and mobility loss."
+            ]
+          }
+        },
+        {
+          "name": "Chronic Muscle Pain and Myofascial Pain Syndrome",
+          "medicalDefinition": "Persistent muscle pain with trigger points referring pain to other areas.",
+          "traumaConnection": "90% develop after physical or emotional trauma; stress maintains trigger points.",
+          "prevalence": "85% of chronic pain patients have myofascial component.",
+          "treatmentLimitations": "Trigger points regenerate; underlying tension patterns persist.",
+          "solution": {
+            "title": "THE B9CONCEPT SOLUTION",
+            "points": [
+              "Cognitive reframing eliminates stored trauma patterns creating muscle guarding and trigger points.",
+              "Energy Aura Restoration repairs the disrupted energy field in muscle and fascia tissue.",
+              "Prevents trigger point formation and muscle dysfunction."
+            ]
+          }
+        },
+        {
+          "name": "Chronic Foot and Ankle Pain",
+          "medicalDefinition": "Persistent pain in feet/ankles impacting mobility and quality of life.",
+          "traumaConnection": "Compensatory patterns from trauma create chronic strain and dysfunction.",
+          "prevalence": "24% of adults experience chronic foot pain.",
+          "treatmentLimitations": "Biomechanical compensations resist correction.",
+          "solution": {
+            "title": "THE B9CONCEPT SOLUTION",
+            "points": [
+              "Cognitive reframing eliminates stored trauma patterns affecting gait and weight distribution.",
+              "Energy Aura Restoration repairs the disrupted energy field in feet and ankles, restoring proper biomechanics.",
+              "Prevents foot dysfunction and gait abnormalities."
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "category-2",
+      "title": "2. Digestive & Gastrointestinal Disorders",
+      "conditions": [
+        {
+          "name": "Irritable Bowel Syndrome (IBS)",
+          "medicalDefinition": "Functional bowel disorder with abdominal pain, bloating, and altered bowel habits.",
+          "traumaConnection": "50% of IBS patients report abuse history; gut-brain axis permanently altered.",
+          "prevalence": "10-15% of global population.",
+          "treatmentLimitations": "No cure; symptoms managed but not eliminated.",
+          "solution": {
+            "title": "THE B9CONCEPT SOLUTION",
+            "points": [
+              "Cognitive reframing eliminates stored trauma patterns disrupting gut-brain communication.",
+              "Energy Aura Restoration repairs the fragmented energy field in digestive organs, normalizing function.",
+              "Prevents digestive dysfunction and food sensitivities."
+            ]
+          }
+        },
+        {
+          "name": "Inflammatory Bowel Disease (IBD)",
+          "medicalDefinition": "Chronic inflammatory conditions causing intestinal damage and systemic symptoms.",
+          "traumaConnection": "Childhood trauma doubles IBD risk; stress triggers inflammatory flares.",
+          "prevalence": "0.3% of population in developed countries.",
+          "treatmentLimitations": "Progressive damage despite immunosuppression; surgery often required.",
+          "solution": {
+            "title": "THE B9CONCEPT SOLUTION",
+            "points": [
+              "Cognitive reframing eliminates stored trauma patterns triggering autoimmune inflammation.",
+              "Energy Aura Restoration repairs the disrupted energy field in intestinal walls, stopping inflammation.",
+              "Prevents inflammatory flares and intestinal damage."
+            ]
+          }
+        },
+        {
+          "name": "Gastroesophageal Reflux Disease (GERD)",
+          "medicalDefinition": "Chronic acid reflux causing heartburn and esophageal damage.",
+          "traumaConnection": "Stress and trauma increase stomach acid and weaken esophageal sphincter.",
+          "prevalence": "20% of Western population.",
+          "treatmentLimitations": "Long-term medication dependency; complications continue developing.",
+          "solution": {
+            "title": "THE B9CONCEPT SOLUTION",
+            "points": [
+              "Cognitive reframing eliminates stored trauma patterns affecting stomach acid production.",
+              "Energy Aura Restoration repairs the weakened energy field in esophageal sphincter.",
+              "Prevents acid reflux episodes and esophageal damage."
+            ]
+          }
+        },
+        {
+          "name": "Functional Dyspepsia",
+          "medicalDefinition": "Chronic upper abdominal discomfort without identifiable cause.",
+          "traumaConnection": "87% correlation with anxiety disorders from unresolved trauma.",
+          "prevalence": "15-20% of population.",
+          "treatmentLimitations": "Symptoms persist despite acid suppression and dietary changes.",
+          "solution": {
+            "title": "THE B9CONCEPT SOLUTION",
+            "points": [
+              "Cognitive reframing eliminates stored trauma patterns creating digestive hypersensitivity.",
+              "Energy Aura Restoration repairs the disrupted energy field in upper digestive tract.",
+              "Prevents dyspepsia recurrence and digestive dysfunction."
+            ]
+          }
+        },
+        {
+          "name": "Chronic Constipation",
+          "medicalDefinition": "Infrequent bowel movements with straining lasting over 3 months.",
+          "traumaConnection": "Childhood trauma disrupts normal bowel function through autonomic dysfunction.",
+          "prevalence": "16% of adults; 33% of adults over 60.",
+          "treatmentLimitations": "Laxative dependency develops; underlying dysfunction remains.",
+          "solution": {
+            "title": "THE B9CONCEPT SOLUTION",
+            "points": [
+              "Cognitive reframing eliminates stored trauma patterns blocking normal bowel function.",
+              "Energy Aura Restoration repairs the blocked energy field in colon and rectum.",
+              "Prevents constipation and bowel dysfunction."
+            ]
+          }
+        },
+        {
+          "name": "Chronic Diarrhea",
+          "medicalDefinition": "Loose stools persisting over 4 weeks without clear infectious cause.",
+          "traumaConnection": "Hypervigilance from trauma creates chronic intestinal hypermotility.",
+          "prevalence": "5% of population experiences chronic diarrhea.",
+          "treatmentLimitations": "Medications provide temporary relief but don't address root cause.",
+          "solution": {
+            "title": "THE B9CONCEPT SOLUTION",
+            "points": [
+              "Cognitive reframing eliminates stored trauma patterns causing intestinal hyperactivity.",
+              "Energy Aura Restoration repairs the agitated energy field in intestines.",
+              "Prevents diarrhea episodes and intestinal dysfunction."
+            ]
+          }
+        },
+        {
+          "name": "Gastroparesis",
+          "medicalDefinition": "Delayed stomach emptying causing nausea, vomiting, and bloating.",
+          "traumaConnection": "Autonomic dysfunction from trauma impairs stomach motility.",
+          "prevalence": "4% of population, predominantly women.",
+          "treatmentLimitations": "Progressive condition with limited treatment options.",
+          "solution": {
+            "title": "THE B9CONCEPT SOLUTION",
+            "points": [
+              "Cognitive reframing eliminates stored trauma patterns paralyzing stomach muscles.",
+              "Energy Aura Restoration repairs the frozen energy field in stomach nerves and muscles.",
+              "Prevents gastroparesis progression and complications."
+            ]
+          }
+        },
+        {
+          "name": "Chronic Nausea",
+          "medicalDefinition": "Persistent queasiness lasting weeks to months without vomiting.",
+          "traumaConnection": "70% have anxiety disorders; nausea represents body's rejection of trauma.",
+          "prevalence": "2-3% experience chronic unexplained nausea.",
+          "treatmentLimitations": "Anti-nausea medications have limited long-term effectiveness.",
+          "solution": {
+            "title": "THE B9CONCEPT SOLUTION",
+            "points": [
+              "Cognitive reframing eliminates stored trauma patterns triggering nausea centers.",
+              "Energy Aura Restoration repairs the disrupted energy field in nausea control centers.",
+              "Prevents chronic nausea and associated eating problems."
+            ]
+          }
+        },
+        {
+          "name": "Cyclic Vomiting Syndrome",
+          "medicalDefinition": "Recurrent episodes of severe vomiting with symptom-free intervals.",
+          "traumaConnection": "80% have history of emotional trauma; episodes triggered by stress.",
+          "prevalence": "2% of children; 0.2% of adults.",
+          "treatmentLimitations": "Episodes remain unpredictable; emergency care often required.",
+          "solution": {
+            "title": "THE B9CONCEPT SOLUTION",
+            "points": [
+              "Cognitive reframing eliminates stored trauma patterns triggering vomiting cycles.",
+              "Energy Aura Restoration repairs the chaotic energy field in autonomic nervous system.",
+              "Prevents vomiting episodes and digestive crises."
+            ]
+          }
+        },
+        {
+          "name": "Food Intolerances and Sensitivities",
+          "medicalDefinition": "Non-allergic adverse reactions to specific foods.",
+          "traumaConnection": "Gut hypervigilance from trauma creates food reactivity.",
+          "prevalence": "20% of population reports food intolerances.",
+          "treatmentLimitations": "Dietary restrictions become increasingly complex over time.",
+          "solution": {
+            "title": "THE B9CONCEPT SOLUTION",
+            "points": [
+              "Cognitive reframing eliminates stored trauma patterns creating food hyperreactivity.",
+              "Energy Aura Restoration repairs the overreactive energy field in digestive system.",
+              "Prevents new food sensitivities and reactions."
+            ]
+          }
+        },
+        {
+          "name": "Chronic Bloating and Distension",
+          "medicalDefinition": "Persistent abdominal fullness and visible swelling.",
+          "traumaConnection": "Body armor response to trauma creates chronic abdominal tension.",
+          "prevalence": "30% of adults experience regular bloating.",
+          "treatmentLimitations": "Symptoms persist despite dietary modifications and medications.",
+          "solution": {
+            "title": "THE B9CONCEPT SOLUTION",
+            "points": [
+              "Cognitive reframing eliminates stored trauma patterns causing abdominal guarding.",
+              "Energy Aura Restoration repairs the tense energy field in abdominal cavity.",
+              "Prevents bloating episodes and abdominal dysfunction."
+            ]
+          }
+        },
+        {
+          "name": "Chronic Abdominal Pain",
+          "medicalDefinition": "Persistent abdominal pain lasting over 3 months without clear cause.",
+          "traumaConnection": "64% have history of abuse; abdomen holds emotional trauma.",
+          "prevalence": "15-25% of population.",
+          "treatmentLimitations": "Pain persists despite extensive testing and treatments.",
+          "solution": {
+            "title": "THE B9CONCEPT SOLUTION",
+            "points": [
+              "Cognitive reframing eliminates stored trauma patterns creating abdominal hypersensitivity.",
+              "Energy Aura Restoration repairs the disrupted energy field throughout abdomen.",
+              "Prevents abdominal pain and digestive dysfunction."
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "category-3",
+      "title": "3. Cardiovascular & Heart Conditions",
+      "conditions": [
+        {
+          "name": "Hypertension (High Blood Pressure)",
+          "medicalDefinition": "Sustained elevated blood pressure increasing cardiovascular risk.",
+          "traumaConnection": "ACEs increase hypertension risk by 70%; chronic hypervigilance elevates pressure.",
+          "prevalence": "30% of adults worldwide.",
+          "treatmentLimitations": "Lifelong medication required; damage continues accumulating.",
+          "solution": {
+            "title": "THE B9CONCEPT SOLUTION",
+            "points": [
+              "Cognitive reframing eliminates stored trauma patterns causing vascular constriction.",
+              "Energy Aura Restoration repairs the constricted energy field in blood vessels.",
+              "Prevents hypertension and cardiovascular complications."
+            ]
+          }
+        },
+        {
+          "name": "Heart Palpitations and Arrhythmias",
+          "medicalDefinition": "Irregular heartbeats causing fluttering, racing, or skipping sensations.",
+          "traumaConnection": "75% triggered by emotional stress; trauma disrupts cardiac electrical system.",
+          "prevalence": "16% of population experiences palpitations.",
+          "treatmentLimitations": "Medications have side effects; ablation procedures carry risks.",
+          "solution": {
+            "title": "THE B9CONCEPT SOLUTION",
+            "points": [
+              "Cognitive reframing eliminates stored trauma patterns disrupting heart rhythm.",
+              "Energy Aura Restoration repairs the chaotic energy field in cardiac conduction system.",
+              "Prevents arrhythmias and cardiac electrical dysfunction."
+            ]
+          }
+        },
+        {
+          "name": "Chronic Heart Failure",
+          "medicalDefinition": "Progressive inability of heart to pump blood effectively.",
+          "traumaConnection": "Chronic stress from trauma accelerates heart muscle deterioration.",
+          "prevalence": "2% of adult population; 10% over age 65.",
+          "treatmentLimitations": "Progressive condition despite optimal medical management.",
+          "solution": {
+            "title": "THE B9CONCEPT SOLUTION",
+            "points": [
+              "Cognitive reframing eliminates stored trauma patterns weakening heart muscle.",
+              "Energy Aura Restoration repairs the depleted energy field in cardiac tissue.",
+              "Prevents heart failure progression and complications."
+            ]
+          }
+        },
+        {
+          "name": "Coronary Artery Disease",
+          "medicalDefinition": "Progressive narrowing of heart arteries reducing blood flow.",
+          "traumaConnection": "Childhood trauma increases risk by 50%; chronic inflammation accelerates plaque.",
+          "prevalence": "Leading cause of death globally.",
+          "treatmentLimitations": "Stents and surgery provide temporary relief; disease progresses.",
+          "solution": {
+            "title": "THE B9CONCEPT SOLUTION",
+            "points": [
+              "Cognitive reframing eliminates stored trauma patterns causing arterial inflammation.",
+              "Energy Aura Restoration repairs the blocked energy field in coronary arteries.",
+              "Prevents arterial disease and heart attacks."
+            ]
+          }
+        },
+        {
+          "name": "Chronic Chest Pain (Non-Cardiac)",
+          "medicalDefinition": "Persistent chest discomfort without cardiac cause.",
+          "traumaConnection": "80% have panic disorder; chest holds grief and heartbreak.",
+          "prevalence": "25% of population experiences non-cardiac chest pain.",
+          "treatmentLimitations": "Reassurance ineffective; symptoms create ongoing distress.",
+          "solution": {
+            "title": "THE B9CONCEPT SOLUTION",
+            "points": [
+              "Cognitive reframing eliminates stored trauma patterns creating chest hypersensitivity.",
+              "Energy Aura Restoration repairs the armored energy field in chest cavity.",
+              "Prevents chest pain and associated anxiety."
+            ]
+          }
+        },
+        {
+          "name": "Postural Orthostatic Tachycardia Syndrome (POTS)",
+          "medicalDefinition": "Excessive heart rate increase upon standing with multiple symptoms.",
+          "traumaConnection": "90% develop after physical or emotional trauma disrupting autonomic function.",
+          "prevalence": "0.2% of population, predominantly young women.",
+          "treatmentLimitations": "No cure; complex management with limited effectiveness.",
+          "solution": {
+            "title": "THE B9CONCEPT SOLUTION",
+            "points": [
+              "Cognitive reframing eliminates stored trauma patterns disrupting blood pressure regulation.",
+              "Energy Aura Restoration repairs the dysregulated energy field in autonomic system.",
+              "Prevents POTS episodes and autonomic dysfunction."
+            ]
+          }
+        },
+        {
+          "name": "Chronic Venous Insufficiency",
+          "medicalDefinition": "Impaired blood return from legs causing swelling and skin changes.",
+          "traumaConnection": "Chronic muscle tension from trauma impairs venous return.",
+          "prevalence": "5-15% of adults.",
+          "treatmentLimitations": "Progressive condition despite compression and procedures.",
+          "solution": {
+            "title": "THE B9CONCEPT SOLUTION",
+            "points": [
+              "Cognitive reframing eliminates stored trauma patterns blocking venous flow.",
+              "Energy Aura Restoration repairs the stagnant energy field in leg veins.",
+              "Prevents venous insufficiency and complications."
+            ]
+          }
+        },
+        {
+          "name": "Peripheral Artery Disease",
+          "medicalDefinition": "Narrowed arteries reducing blood flow to limbs.",
+          "traumaConnection": "Stress hormones from trauma accelerate arterial damage.",
+          "prevalence": "8-10% of adults over 60.",
+          "treatmentLimitations": "Progressive despite medications; amputation risk remains.",
+          "solution": {
+            "title": "THE B9CONCEPT SOLUTION",
+            "points": [
+              "Cognitive reframing eliminates stored trauma patterns constricting peripheral arteries.",
+              "Energy Aura Restoration repairs the blocked energy field in limb arteries.",
+              "Prevents peripheral artery disease progression."
+            ]
+          }
+        },
+        {
+          "name": "Chronic Edema/Lymphedema",
+          "medicalDefinition": "Persistent fluid accumulation causing swelling.",
+          "traumaConnection": "Trauma disrupts lymphatic flow through chronic muscle tension.",
+          "prevalence": "3% of population.",
+          "treatmentLimitations": "Requires lifelong management; complications common.",
+          "solution": {
+            "title": "THE B9CONCEPT SOLUTION",
+            "points": [
+              "Cognitive reframing eliminates stored trauma patterns blocking lymphatic drainage.",
+              "Energy Aura Restoration repairs the congested energy field in lymphatic system.",
+              "Prevents fluid accumulation and lymphatic dysfunction."
+            ]
+          }
+        },
+        {
+          "name": "Vasovagal Syncope",
+          "medicalDefinition": "Fainting episodes triggered by specific situations or emotions.",
+          "traumaConnection": "Extreme vagal response developed as trauma coping mechanism.",
+          "prevalence": "35% experience at least one episode.",
+          "treatmentLimitations": "Triggers difficult to avoid; episodes unpredictable.",
+          "solution": {
+            "title": "THE B9CONCEPT SOLUTION",
+            "points": [
+              "Cognitive reframing eliminates stored trauma patterns triggering fainting response.",
+              "Energy Aura Restoration repairs the overreactive energy field in vagal system.",
+              "Prevents fainting episodes and vasovagal reactions."
+            ]
+          }
+        },
+        {
+          "name": "Chronic Hypotension",
+          "medicalDefinition": "Persistently low blood pressure causing dizziness and fatigue.",
+          "traumaConnection": "Dissociative response to trauma creates chronic low arousal state.",
+          "prevalence": "5% of population.",
+          "treatmentLimitations": "Limited treatment options; symptoms significantly impact function.",
+          "solution": {
+            "title": "THE B9CONCEPT SOLUTION",
+            "points": [
+              "Cognitive reframing eliminates stored trauma patterns suppressing blood pressure.",
+              "Energy Aura Restoration repairs the depleted energy field in cardiovascular system.",
+              "Prevents hypotensive episodes and associated symptoms."
+            ]
+          }
+        },
+        {
+          "name": "Raynaud's Phenomenon",
+          "medicalDefinition": "Extreme vessel constriction in fingers/toes triggered by cold or stress.",
+          "traumaConnection": "Hypervigilance creates excessive vasoconstriction response.",
+          "prevalence": "3-5% of population.",
+          "treatmentLimitations": "Medications have limited effectiveness; tissue damage can occur.",
+          "solution": {
+            "title": "THE B9CONCEPT SOLUTION",
+            "points": [
+              "Cognitive reframing eliminates stored trauma patterns causing vessel hyperreactivity.",
+              "Energy Aura Restoration repairs the constricted energy field in peripheral vessels.",
+              "Prevents Raynaud's attacks and circulation problems."
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "category-4",
+      "title": "4. Skin & Dermatological Conditions",
+      "conditions": [
+        {
+          "name": "Psoriasis",
+          "medicalDefinition": "Autoimmune condition causing rapid skin cell turnover and plaques.",
+          "traumaConnection": "68% report significant stress before onset; trauma triggers immune dysfunction.",
+          "prevalence": "2-3% of population.",
+          "treatmentLimitations": "No cure; treatments suppress symptoms temporarily.",
+          "solution": {
+            "title": "THE B9CONCEPT SOLUTION",
+            "points": [
+              "Cognitive reframing eliminates stored trauma patterns triggering autoimmune skin reactions.",
+              "Energy Aura Restoration repairs the overactive energy field in skin immune system.",
+              "Prevents psoriasis flares and skin dysfunction."
+            ]
+          }
+        },
+        {
+          "name": "Chronic Eczema/Atopic Dermatitis",
+          "medicalDefinition": "Inflammatory skin condition causing itching, redness, and barrier dysfunction.",
+          "traumaConnection": "Childhood trauma doubles eczema risk; skin reflects emotional state.",
+          "prevalence": "10% of children; 3% of adults.",
+          "treatmentLimitations": "Requires constant management; flares unpredictable.",
+          "solution": {
+            "title": "THE B9CONCEPT SOLUTION",
+            "points": [
+              "Cognitive reframing eliminates stored trauma patterns creating skin inflammation.",
+              "Energy Aura Restoration repairs the disrupted energy field in skin barrier.",
+              "Prevents eczema flares and skin sensitivity."
+            ]
+          }
+        },
+        {
+          "name": "Chronic Urticaria (Hives)",
+          "medicalDefinition": "Recurrent itchy welts lasting over 6 weeks without clear cause.",
+          "traumaConnection": "70% have concurrent anxiety; stress hormones trigger mast cells.",
+          "prevalence": "1% of population.",
+          "treatmentLimitations": "Antihistamines provide partial relief; cause often unknown.",
+          "solution": {
+            "title": "THE B9CONCEPT SOLUTION",
+            "points": [
+              "Cognitive reframing eliminates stored trauma patterns activating mast cells.",
+              "Energy Aura Restoration repairs the hyperreactive energy field in skin.",
+              "Prevents hive outbreaks and allergic reactions."
+            ]
+          }
+        },
+        {
+          "name": "Rosacea",
+          "medicalDefinition": "Chronic facial redness, flushing, and inflammatory lesions.",
+          "traumaConnection": "Emotional stress primary trigger; shame and embarrassment worsen condition.",
+          "prevalence": "5% of population, predominantly fair-skinned individuals.",
+          "treatmentLimitations": "Progressive condition; triggers difficult to control.",
+          "solution": {
+            "title": "THE B9CONCEPT SOLUTION",
+            "points": [
+              "Cognitive reframing eliminates stored trauma patterns causing facial vessel reactivity.",
+              "Energy Aura Restoration repairs the inflamed energy field in facial skin.",
+              "Prevents rosacea flares and facial inflammation."
+            ]
+          }
+        },
+        {
+          "name": "Chronic Acne (Adult)",
+          "medicalDefinition": "Persistent inflammatory acne continuing into adulthood.",
+          "traumaConnection": "Stress hormones from trauma increase sebum and inflammation.",
+          "prevalence": "15% of adult women; 3% of adult men.",
+          "treatmentLimitations": "Hormonal influences resist treatment; scarring common.",
+          "solution": {
+            "title": "THE B9CONCEPT SOLUTION",
+            "points": [
+              "Cognitive reframing eliminates stored trauma patterns disrupting skin hormones.",
+              "Energy Aura Restoration repairs the imbalanced energy field in sebaceous glands.",
+              "Prevents acne formation and skin scarring."
+            ]
+          }
+        },
+        {
+          "name": "Alopecia Areata",
+          "medicalDefinition": "Autoimmune condition causing patchy hair loss.",
+          "traumaConnection": "90% experience significant stress before onset; trauma attacks hair follicles.",
+          "prevalence": "0.2% of population.",
+          "treatmentLimitations": "Unpredictable course; treatments often ineffective.",
+          "solution": {
+            "title": "THE B9CONCEPT SOLUTION",
+            "points": [
+              "Cognitive reframing eliminates stored trauma patterns attacking hair follicles.",
+              "Energy Aura Restoration repairs the disrupted energy field in scalp and follicles.",
+              "Prevents hair loss episodes and follicle damage."
+            ]
+          }
+        },
+        {
+          "name": "Chronic Pruritus (Itching)",
+          "medicalDefinition": "Persistent itching without identifiable skin disease.",
+          "traumaConnection": "Nervous system hypersensitivity from trauma creates phantom itching.",
+          "prevalence": "7% of adults.",
+          "treatmentLimitations": "Antihistamines ineffective; psychological component ignored.",
+          "solution": {
+            "title": "THE B9CONCEPT SOLUTION",
+            "points": [
+              "Cognitive reframing eliminates stored trauma patterns creating itch sensations.",
+              "Energy Aura Restoration repairs the agitated energy field in skin nerves.",
+              "Prevents chronic itching and skin damage from scratching."
+            ]
+          }
+        },
+        {
+          "name": "Hyperhidrosis (Excessive Sweating)",
+          "medicalDefinition": "Excessive sweating beyond physiological needs.",
+          "traumaConnection": "Anxiety from trauma creates overactive sympathetic response.",
+          "prevalence": "3% of population.",
+          "treatmentLimitations": "Treatments temporary; surgery carries risks.",
+          "solution": {
+            "title": "THE B9CONCEPT SOLUTION",
+            "points": [
+              "Cognitive reframing eliminates stored trauma patterns triggering sweat glands.",
+              "Energy Aura Restoration repairs the overactive energy field in sweat glands.",
+              "Prevents excessive sweating and social complications."
+            ]
+          }
+        },
+        {
+          "name": "Vitiligo",
+          "medicalDefinition": "Autoimmune destruction of melanocytes causing white patches.",
+          "traumaConnection": "70% report stressful events before onset; trauma disrupts melanin production.",
+          "prevalence": "1% of population.",
+          "treatmentLimitations": "No cure; treatments aim to mask appearance.",
+          "solution": {
+            "title": "THE B9CONCEPT SOLUTION",
+            "points": [
+              "Cognitive reframing eliminates stored trauma patterns destroying melanocytes.",
+              "Energy Aura Restoration repairs the disrupted energy field in pigment cells.",
+              "Prevents vitiligo progression and new patches."
+            ]
+          }
+        },
+        {
+          "name": "Chronic Dermatitis",
+          "medicalDefinition": "Persistent skin inflammation with various triggers.",
+          "traumaConnection": "Skin acts as emotional barrier; trauma creates chronic inflammation.",
+          "prevalence": "10% of population.",
+          "treatmentLimitations": "Requires constant management; flares common.",
+          "solution": {
+            "title": "THE B9CONCEPT SOLUTION",
+            "points": [
+              "Cognitive reframing eliminates stored trauma patterns inflaming skin.",
+              "Energy Aura Restoration repairs the reactive energy field throughout skin.",
+              "Prevents dermatitis flares and skin reactions."
+            ]
+          }
+        },
+        {
+          "name": "Hidradenitis Suppurativa",
+          "medicalDefinition": "Chronic inflammatory condition affecting hair follicles and sweat glands.",
+          "traumaConnection": "High correlation with childhood trauma; stress worsens inflammation.",
+          "prevalence": "1-4% of population.",
+          "treatmentLimitations": "Progressive scarring despite treatments; surgery often required.",
+          "solution": {
+            "title": "THE B9CONCEPT SOLUTION",
+            "points": [
+              "Cognitive reframing eliminates stored trauma patterns creating follicle inflammation.",
+              "Energy Aura Restoration repairs the blocked energy field in affected areas.",
+              "Prevents new lesions and disease progression."
+            ]
+          }
+        },
+        {
+          "name": "Chronic Skin Infections",
+          "medicalDefinition": "Recurrent bacterial or fungal skin infections.",
+          "traumaConnection": "Trauma weakens skin immunity; stress creates favorable infection environment.",
+          "prevalence": "20% experience recurrent infections.",
+          "treatmentLimitations": "Antibiotic resistance developing; infections recur.",
+          "solution": {
+            "title": "THE B9CONCEPT SOLUTION",
+            "points": [
+              "Cognitive reframing eliminates stored trauma patterns weakening skin immunity.",
+              "Energy Aura Restoration repairs the compromised energy field in skin defenses.",
+              "Prevents infections and strengthens skin immunity."
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "category-5",
+      "title": "5. Respiratory & Lung Disorders",
+      "conditions": [
+        {
+          "name": "Asthma",
+          "medicalDefinition": "Chronic airway inflammation causing wheezing, coughing, and breathlessness.",
+          "traumaConnection": "Childhood trauma triples asthma risk; emotional stress triggers attacks.",
+          "prevalence": "8% of population.",
+          "treatmentLimitations": "Requires lifelong medication; severe attacks can be fatal.",
+          "solution": {
+            "title": "THE B9CONCEPT SOLUTION",
+            "points": [
+              "Cognitive reframing eliminates stored trauma patterns constricting airways.",
+              "Energy Aura Restoration repairs the inflamed energy field in bronchial passages.",
+              "Prevents asthma attacks and airway inflammation."
+            ]
+          }
+        },
+        {
+          "name": "Chronic Obstructive Pulmonary Disease (COPD)",
+          "medicalDefinition": "Progressive lung disease causing breathing difficulty.",
+          "traumaConnection": "ACEs increase COPD risk by 260%; trauma accelerates lung damage.",
+          "prevalence": "10% of adults over 40.",
+          "treatmentLimitations": "Irreversible damage; oxygen dependency common.",
+          "solution": {
+            "title": "THE B9CONCEPT SOLUTION",
+            "points": [
+              "Cognitive reframing eliminates stored trauma patterns destroying lung tissue.",
+              "Energy Aura Restoration repairs the damaged energy field in lungs.",
+              "Prevents COPD progression and respiratory failure."
+            ]
+          }
+        },
+        {
+          "name": "Chronic Bronchitis",
+          "medicalDefinition": "Persistent productive cough lasting over 3 months annually.",
+          "traumaConnection": "Chronic inflammation from stress hormones; emotional suppression affects breathing.",
+          "prevalence": "4% of population.",
+          "treatmentLimitations": "Becomes progressive; increased infection risk.",
+          "solution": {
+            "title": "THE B9CONCEPT SOLUTION",
+            "points": [
+              "Cognitive reframing eliminates stored trauma patterns inflaming bronchi.",
+              "Energy Aura Restoration repairs the congested energy field in airways.",
+              "Prevents bronchitis episodes and lung damage."
+            ]
+          }
+        },
+        {
+          "name": "Chronic Cough",
+          "medicalDefinition": "Persistent cough lasting over 8 weeks without clear cause.",
+          "traumaConnection": "62% have anxiety disorders; cough represents unexpressed emotions.",
+          "prevalence": "10% of population.",
+          "treatmentLimitations": "Often refractory to treatment; significantly impacts quality of life.",
+          "solution": {
+            "title": "THE B9CONCEPT SOLUTION",
+            "points": [
+              "Cognitive reframing eliminates stored trauma patterns triggering cough reflex.",
+              "Energy Aura Restoration repairs the hypersensitive energy field in throat.",
+              "Prevents chronic cough and throat irritation."
+            ]
+          }
+        },
+        {
+          "name": "Sleep Apnea",
+          "medicalDefinition": "Breathing interruptions during sleep causing oxygen deprivation.",
+          "traumaConnection": "Hypervigilance prevents deep sleep; throat tension blocks airway.",
+          "prevalence": "3-7% of adults.",
+          "treatmentLimitations": "CPAP compliance poor; surgery has variable success.",
+          "solution": {
+            "title": "THE B9CONCEPT SOLUTION",
+            "points": [
+              "Cognitive reframing eliminates stored trauma patterns blocking airway during sleep.",
+              "Energy Aura Restoration repairs the collapsed energy field in throat structures.",
+              "Prevents apnea episodes and sleep disruption."
+            ]
+          }
+        },
+        {
+          "name": "Chronic Sinusitis",
+          "medicalDefinition": "Sinus inflammation lasting over 12 weeks.",
+          "traumaConnection": "Chronic stress suppresses local immunity; emotional congestion manifests physically.",
+          "prevalence": "12% of population.",
+          "treatmentLimitations": "Frequent recurrence despite antibiotics and surgery.",
+          "solution": {
+            "title": "THE B9CONCEPT SOLUTION",
+            "points": [
+              "Cognitive reframing eliminates stored trauma patterns congesting sinuses.",
+              "Energy Aura Restoration repairs the blocked energy field in sinus cavities.",
+              "Prevents sinus infections and chronic inflammation."
+            ]
+          }
+        },
+        {
+          "name": "Pulmonary Fibrosis",
+          "medicalDefinition": "Progressive lung scarring impairing oxygen transfer.",
+          "traumaConnection": "Chronic inflammation from trauma creates fibrotic changes.",
+          "prevalence": "20 per 100,000 population.",
+          "treatmentLimitations": "No cure; median survival 3-5 years after diagnosis.",
+          "solution": {
+            "title": "THE B9CONCEPT SOLUTION",
+            "points": [
+              "Cognitive reframing eliminates stored trauma patterns creating lung scarring.",
+              "Energy Aura Restoration repairs the fibrotic energy field in lung tissue.",
+              "Prevents fibrosis progression and respiratory failure."
+            ]
+          }
+        },
+        {
+          "name": "Chronic Dyspnea (Shortness of Breath)",
+          "medicalDefinition": "Persistent breathlessness without clear cardiac or pulmonary cause.",
+          "traumaConnection": "85% have panic disorder; breath holding from fear becomes chronic.",
+          "prevalence": "5% of population.",
+          "treatmentLimitations": "Anxiety medications partially effective; symptoms persist.",
+          "solution": {
+            "title": "THE B9CONCEPT SOLUTION",
+            "points": [
+              "Cognitive reframing eliminates stored trauma patterns restricting breathing.",
+              "Energy Aura Restoration repairs the constricted energy field in respiratory centers.",
+              "Prevents dyspnea episodes and breathing dysfunction."
+            ]
+          }
+        },
+        {
+          "name": "Allergic Rhinitis",
+          "medicalDefinition": "Chronic nasal inflammation from environmental allergens.",
+          "traumaConnection": "Hypervigilant immune system from trauma overreacts to harmless substances.",
+          "prevalence": "20% of population.",
+          "treatmentLimitations": "Requires constant medication; environmental control difficult.",
+          "solution": {
+            "title": "THE B9CONCEPT SOLUTION",
+            "points": [
+              "Cognitive reframing eliminates stored trauma patterns creating allergic hypersensitivity.",
+              "Energy Aura Restoration repairs the overreactive energy field in nasal passages.",
+              "Prevents allergic reactions and nasal inflammation."
+            ]
+          }
+        },
+        {
+          "name": "Chronic Laryngitis",
+          "medicalDefinition": "Persistent hoarseness and voice changes lasting over 3 weeks.",
+          "traumaConnection": "Suppressed expression from trauma creates chronic laryngeal tension.",
+          "prevalence": "3% of population.",
+          "treatmentLimitations": "Voice therapy limited effectiveness; professional impact significant.",
+          "solution": {
+            "title": "THE B9CONCEPT SOLUTION",
+            "points": [
+              "Cognitive reframing eliminates stored trauma patterns constricting vocal cords.",
+              "Energy Aura Restoration repairs the tense energy field in larynx.",
+              "Prevents voice problems and laryngeal dysfunction."
+            ]
+          }
+        },
+        {
+          "name": "Vocal Cord Dysfunction",
+          "medicalDefinition": "Inappropriate vocal cord closure causing breathing difficulty.",
+          "traumaConnection": "90% have history of psychological trauma; represents suppressed voice.",
+          "prevalence": "Often misdiagnosed as asthma.",
+          "treatmentLimitations": "Speech therapy partially effective; episodes unpredictable.",
+          "solution": {
+            "title": "THE B9CONCEPT SOLUTION",
+            "points": [
+              "Cognitive reframing eliminates stored trauma patterns paralyzing vocal cords.",
+              "Energy Aura Restoration repairs the dysfunctional energy field in voice box.",
+              "Prevents vocal cord spasms and breathing crises."
+            ]
+          }
+        },
+        {
+          "name": "Chronic Chest Congestion",
+          "medicalDefinition": "Persistent mucus production and chest heaviness.",
+          "traumaConnection": "Grief and sadness accumulate in chest; emotional congestion becomes physical.",
+          "prevalence": "15% of adults.",
+          "treatmentLimitations": "Expectorants provide temporary relief; underlying cause persists.",
+          "solution": {
+            "title": "THE B9CONCEPT SOLUTION",
+            "points": [
+              "Cognitive reframing eliminates stored trauma patterns creating mucus overproduction.",
+              "Energy Aura Restoration repairs the congested energy field in chest cavity.",
+              "Prevents chest congestion and respiratory complications."
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "category-6",
+      "title": "6. Reproductive & Hormonal Disorders",
+      "conditions": [
+        {
+          "name": "Endometriosis",
+          "medicalDefinition": "Uterine tissue growing outside uterus causing pain and infertility.",
+          "traumaConnection": "79% have history of physical or sexual abuse; trauma disrupts hormones.",
+          "prevalence": "10% of reproductive-age women.",
+          "treatmentLimitations": "No cure; hormonal suppression has significant side effects.",
+          "solution": {
+            "title": "THE B9CONCEPT SOLUTION",
+            "points": [
+              "Cognitive reframing eliminates stored trauma patterns creating hormonal chaos.",
+              "Energy Aura Restoration repairs the displaced energy field in reproductive organs.",
+              "Prevents endometrial growth and fertility complications."
+            ]
+          }
+        },
+        {
+          "name": "Chronic Pelvic Inflammatory Disease",
+          "medicalDefinition": "Persistent inflammation of female reproductive organs.",
+          "traumaConnection": "Sexual trauma history in 65%; chronic stress weakens local immunity.",
+          "prevalence": "4% of reproductive-age women.",
+          "treatmentLimitations": "Antibiotic resistance; scarring causes ongoing pain.",
+          "solution": {
+            "title": "THE B9CONCEPT SOLUTION",
+            "points": [
+              "Cognitive reframing eliminates stored trauma patterns creating chronic inflammation.",
+              "Energy Aura Restoration repairs the inflamed energy field in pelvic organs.",
+              "Prevents PID recurrence and reproductive damage."
+            ]
+          }
+        },
+        {
+          "name": "Chronic Prostatitis",
+          "medicalDefinition": "Persistent prostate inflammation causing pain and urinary symptoms.",
+          "traumaConnection": "Chronic pelvic tension from trauma; emotional holding in pelvic floor.",
+          "prevalence": "10% of men.",
+          "treatmentLimitations": "90% of cases non-bacterial; antibiotics ineffective.",
+          "solution": {
+            "title": "THE B9CONCEPT SOLUTION",
+            "points": [
+              "Cognitive reframing eliminates stored trauma patterns tensing pelvic muscles.",
+              "Energy Aura Restoration repairs the congested energy field in prostate.",
+              "Prevents prostatitis episodes and urinary dysfunction."
+            ]
+          }
+        },
+        {
+          "name": "Premenstrual Dysphoric Disorder (PMDD)",
+          "medicalDefinition": "Severe mood and physical symptoms before menstruation.",
+          "traumaConnection": "71% have trauma history; hormones trigger trauma memories.",
+          "prevalence": "3-8% of menstruating women.",
+          "treatmentLimitations": "Hormonal treatments have side effects; symptoms return when stopped.",
+          "solution": {
+            "title": "THE B9CONCEPT SOLUTION",
+            "points": [
+              "Cognitive reframing eliminates stored trauma patterns amplifying hormonal sensitivity.",
+              "Energy Aura Restoration repairs the chaotic energy field in hormonal system.",
+              "Prevents PMDD episodes and hormonal dysfunction."
+            ]
+          }
+        },
+        {
+          "name": "Chronic Ovarian Cysts",
+          "medicalDefinition": "Recurrent fluid-filled sacs on ovaries causing pain and complications.",
+          "traumaConnection": "Reproductive trauma creates energetic blocks manifesting as cysts.",
+          "prevalence": "8% of premenopausal women.",
+          "treatmentLimitations": "Surgical removal doesn't prevent recurrence.",
+          "solution": {
+            "title": "THE B9CONCEPT SOLUTION",
+            "points": [
+              "Cognitive reframing eliminates stored trauma patterns creating ovarian dysfunction.",
+              "Energy Aura Restoration repairs the blocked energy field in ovaries.",
+              "Prevents cyst formation and ovarian complications."
+            ]
+          }
+        },
+        {
+          "name": "Erectile Dysfunction",
+          "medicalDefinition": "Persistent inability to achieve or maintain erection.",
+          "traumaConnection": "85% have psychological component; performance anxiety from trauma.",
+          "prevalence": "30% of men over 40.",
+          "treatmentLimitations": "Medications address symptoms not cause; side effects common.",
+          "solution": {
+            "title": "THE B9CONCEPT SOLUTION",
+            "points": [
+              "Cognitive reframing eliminates stored trauma patterns blocking sexual function.",
+              "Energy Aura Restoration repairs the constricted energy field in pelvic circulation.",
+              "Prevents erectile dysfunction and sexual complications."
+            ]
+          }
+        },
+        {
+          "name": "Chronic Vulvodynia",
+          "medicalDefinition": "Chronic vulvar pain without identifiable cause.",
+          "traumaConnection": "90% correlation with sexual trauma; protective pain response.",
+          "prevalence": "16% of women.",
+          "treatmentLimitations": "Multiple treatments provide minimal relief.",
+          "solution": {
+            "title": "THE B9CONCEPT SOLUTION",
+            "points": [
+              "Cognitive reframing eliminates stored trauma patterns creating genital hypersensitivity.",
+              "Energy Aura Restoration repairs the armored energy field in vulvar region.",
+              "Prevents vulvar pain and sexual dysfunction."
+            ]
+          }
+        },
+        {
+          "name": "Infertility (Unexplained)",
+          "medicalDefinition": "Inability to conceive without identifiable medical cause.",
+          "traumaConnection": "Unconscious fear of parenthood; body blocks conception.",
+          "prevalence": "30% of infertility cases unexplained.",
+          "treatmentLimitations": "IVF expensive with variable success rates.",
+          "solution": {
+            "title": "THE B9CONCEPT SOLUTION",
+            "points": [
+              "Cognitive reframing eliminates stored trauma patterns blocking conception.",
+              "Energy Aura Restoration repairs the closed energy field in reproductive system.",
+              "Enables healthy conception and pregnancy."
+            ]
+          }
+        },
+        {
+          "name": "Chronic Menstrual Disorders",
+          "medicalDefinition": "Persistent irregular, heavy, or painful periods.",
+          "traumaConnection": "Body rejection of femininity from trauma; hormonal chaos.",
+          "prevalence": "20% of menstruating women.",
+          "treatmentLimitations": "Hormonal treatments mask symptoms; hysterectomy often recommended.",
+          "solution": {
+            "title": "THE B9CONCEPT SOLUTION",
+            "points": [
+              "Cognitive reframing eliminates stored trauma patterns disrupting menstrual cycles.",
+              "Energy Aura Restoration repairs the imbalanced energy field in uterus.",
+              "Prevents menstrual dysfunction and complications."
+            ]
+          }
+        },
+        {
+          "name": "Sexual Dysfunction (Low Libido)",
+          "medicalDefinition": "Persistent lack of sexual desire or arousal.",
+          "traumaConnection": "Sexual trauma creates aversion; emotional disconnection from body.",
+          "prevalence": "40% of women; 20% of men.",
+          "treatmentLimitations": "Hormones and counseling have limited effectiveness.",
+          "solution": {
+            "title": "THE B9CONCEPT SOLUTION",
+            "points": [
+              "Cognitive reframing eliminates stored trauma patterns suppressing sexual desire.",
+              "Energy Aura Restoration repairs the shut-down energy field in sexual centers.",
+              "Restores healthy sexuality and intimate connection."
+            ]
+          }
+        },
+        {
+          "name": "Chronic Testicular Pain",
+          "medicalDefinition": "Persistent pain in testicles without clear pathology.",
+          "traumaConnection": "Male vulnerability issues; fear held in reproductive organs.",
+          "prevalence": "5% of men.",
+          "treatmentLimitations": "Often labeled idiopathic; surgery rarely helpful.",
+          "solution": {
+            "title": "THE B9CONCEPT SOLUTION",
+            "points": [
+              "Cognitive reframing eliminates stored trauma patterns creating testicular hypersensitivity.",
+              "Energy Aura Restoration repairs the guarded energy field in male organs.",
+              "Prevents testicular pain and reproductive dysfunction."
+            ]
+          }
+        },
+        {
+          "name": "Premature Ovarian Failure",
+          "medicalDefinition": "Loss of ovarian function before age 40.",
+          "traumaConnection": "Severe trauma accelerates reproductive aging.",
+          "prevalence": "1% of women under 40.",
+          "treatmentLimitations": "Irreversible; requires hormone replacement.",
+          "solution": {
+            "title": "THE B9CONCEPT SOLUTION",
+            "points": [
+              "Cognitive reframing eliminates stored trauma patterns exhausting ovaries.",
+              "Energy Aura Restoration repairs the depleted energy field in ovarian tissue.",
+              "Prevents premature menopause and hormonal decline."
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "category-7",
+      "title": "7. Neurological & Nervous System Disorders",
+      "conditions": [
+        {
+          "name": "Chronic Migraines (Neurological)",
+          "medicalDefinition": "Severe headaches with neurological symptoms affecting daily function.",
+          "traumaConnection": "Neurological hypersensitivity from trauma; stress primary trigger.",
+          "prevalence": "15% of population.",
+          "treatmentLimitations": "Preventive medications partially effective; disability common.",
+          "solution": {
+            "title": "THE B9CONCEPT SOLUTION",
+            "points": [
+              "Cognitive reframing eliminates stored trauma patterns triggering neurological storms.",
+              "Energy Aura Restoration repairs the chaotic energy field in brain vessels.",
+              "Prevents migraine attacks and neurological dysfunction."
+            ]
+          }
+        },
+        {
+          "name": "Peripheral Neuropathy",
+          "medicalDefinition": "Nerve damage causing numbness, tingling, and pain in extremities.",
+          "traumaConnection": "Chronic stress damages peripheral nerves through inflammation.",
+          "prevalence": "8% of population over 55.",
+          "treatmentLimitations": "Progressive condition; pain medications have limited effectiveness.",
+          "solution": {
+            "title": "THE B9CONCEPT SOLUTION",
+            "points": [
+              "Cognitive reframing eliminates stored trauma patterns damaging nerve fibers.",
+              "Energy Aura Restoration repairs the disrupted energy field in peripheral nerves.",
+              "Prevents neuropathy progression and nerve damage."
+            ]
+          }
+        },
+        {
+          "name": "Essential Tremor",
+          "medicalDefinition": "Involuntary shaking affecting hands, head, or voice.",
+          "traumaConnection": "Suppressed fear manifests as uncontrollable shaking.",
+          "prevalence": "4% of adults over 40.",
+          "treatmentLimitations": "Medications partially control; brain surgery risky.",
+          "solution": {
+            "title": "THE B9CONCEPT SOLUTION",
+            "points": [
+              "Cognitive reframing eliminates stored trauma patterns creating tremors.",
+              "Energy Aura Restoration repairs the unstable energy field in motor control centers.",
+              "Prevents tremor progression and motor dysfunction."
+            ]
+          }
+        },
+        {
+          "name": "Multiple Sclerosis",
+          "medicalDefinition": "Autoimmune destruction of nerve myelin causing progressive disability.",
+          "traumaConnection": "Major trauma precedes onset in 80%; immune system attacks self.",
+          "prevalence": "0.1% of population.",
+          "treatmentLimitations": "Progressive despite immune suppression; disability inevitable.",
+          "solution": {
+            "title": "THE B9CONCEPT SOLUTION",
+            "points": [
+              "Cognitive reframing eliminates stored trauma patterns attacking nervous system.",
+              "Energy Aura Restoration repairs the damaged energy field in myelin sheaths.",
+              "Prevents MS progression and neurological decline."
+            ]
+          }
+        },
+        {
+          "name": "Chronic Dizziness/Vertigo",
+          "medicalDefinition": "Persistent sensation of spinning or imbalance.",
+          "traumaConnection": "Dissociation from trauma creates chronic disconnection from body.",
+          "prevalence": "20% of adults experience chronic dizziness.",
+          "treatmentLimitations": "Often no clear cause found; vestibular therapy limited help.",
+          "solution": {
+            "title": "THE B9CONCEPT SOLUTION",
+            "points": [
+              "Cognitive reframing eliminates stored trauma patterns disrupting balance centers.",
+              "Energy Aura Restoration repairs the spinning energy field in vestibular system.",
+              "Prevents dizziness episodes and balance problems."
+            ]
+          }
+        },
+        {
+          "name": "Epilepsy (Acquired)",
+          "medicalDefinition": "Recurrent seizures from abnormal brain electrical activity.",
+          "traumaConnection": "Head trauma or severe emotional trauma can trigger epilepsy.",
+          "prevalence": "1% of population.",
+          "treatmentLimitations": "30% resistant to medications; surgery invasive.",
+          "solution": {
+            "title": "THE B9CONCEPT SOLUTION",
+            "points": [
+              "Cognitive reframing eliminates stored trauma patterns triggering electrical storms.",
+              "Energy Aura Restoration repairs the chaotic energy field in brain circuits.",
+              "Prevents seizures and brain dysfunction."
+            ]
+          }
+        },
+        {
+          "name": "Chronic Fatigue Syndrome/ME",
+          "medicalDefinition": "Severe fatigue with post-exertional malaise and cognitive dysfunction.",
+          "traumaConnection": "85% report trauma before onset; nervous system stuck in exhaustion.",
+          "prevalence": "0.4% of population.",
+          "treatmentLimitations": "No cure; minimal improvement with treatment.",
+          "solution": {
+            "title": "THE B9CONCEPT SOLUTION",
+            "points": [
+              "Cognitive reframing eliminates stored trauma patterns depleting energy.",
+              "Energy Aura Restoration repairs the exhausted energy field throughout nervous system.",
+              "Prevents energy crashes and chronic fatigue."
+            ]
+          }
+        },
+        {
+          "name": "Restless Legs Syndrome (Neurological)",
+          "medicalDefinition": "Uncomfortable leg sensations with irresistible urge to move.",
+          "traumaConnection": "Hypervigilance creates constant need for movement and escape.",
+          "prevalence": "10% of population.",
+          "treatmentLimitations": "Medications lose effectiveness; augmentation common.",
+          "solution": {
+            "title": "THE B9CONCEPT SOLUTION",
+            "points": [
+              "Cognitive reframing eliminates stored trauma patterns creating leg restlessness.",
+              "Energy Aura Restoration repairs the agitated energy field in leg nerves.",
+              "Prevents RLS episodes and sleep disruption."
+            ]
+          }
+        },
+        {
+          "name": "Trigeminal Neuralgia",
+          "medicalDefinition": "Severe facial pain from trigeminal nerve dysfunction.",
+          "traumaConnection": "Emotional pain manifests as physical facial pain.",
+          "prevalence": "4 per 100,000 population.",
+          "treatmentLimitations": "Medications have serious side effects; surgery risky.",
+          "solution": {
+            "title": "THE B9CONCEPT SOLUTION",
+            "points": [
+              "Cognitive reframing eliminates stored trauma patterns inflaming facial nerves.",
+              "Energy Aura Restoration repairs the hypersensitive energy field in trigeminal nerve.",
+              "Prevents facial pain attacks and nerve dysfunction."
+            ]
+          }
+        },
+        {
+          "name": "Dystonia",
+          "medicalDefinition": "Involuntary muscle contractions causing abnormal movements.",
+          "traumaConnection": "Body armor from trauma creates permanent muscle contractions.",
+          "prevalence": "16 per 100,000 population.",
+          "treatmentLimitations": "Botox temporary; brain surgery major risks.",
+          "solution": {
+            "title": "THE B9CONCEPT SOLUTION",
+            "points": [
+              "Cognitive reframing eliminates stored trauma patterns locking muscles.",
+              "Energy Aura Restoration repairs the contracted energy field in affected muscles.",
+              "Prevents dystonic movements and muscle dysfunction."
+            ]
+          }
+        },
+        {
+          "name": "Post-Concussion Syndrome",
+          "medicalDefinition": "Persistent symptoms following head injury lasting months to years.",
+          "traumaConnection": "Physical and emotional trauma combine to prevent brain recovery.",
+          "prevalence": "15% of concussion patients.",
+          "treatmentLimitations": "No specific treatment; symptoms often permanent.",
+          "solution": {
+            "title": "THE B9CONCEPT SOLUTION",
+            "points": [
+              "Cognitive reframing eliminates stored trauma patterns preventing brain recovery.",
+              "Energy Aura Restoration repairs the disrupted energy field in injured brain areas.",
+              "Prevents chronic brain dysfunction and cognitive decline."
+            ]
+          }
+        },
+        {
+          "name": "Chronic Tinnitus",
+          "medicalDefinition": "Persistent ringing or noise in ears without external source.",
+          "traumaConnection": "Hypervigilance from trauma creates phantom sounds as warning system.",
+          "prevalence": "15% of population.",
+          "treatmentLimitations": "No cure; masking provides minimal relief.",
+          "solution": {
+            "title": "THE B9CONCEPT SOLUTION",
+            "points": [
+              "Cognitive reframing eliminates stored trauma patterns generating phantom sounds.",
+              "Energy Aura Restoration repairs the overactive energy field in auditory system.",
+              "Prevents tinnitus and hearing dysfunction."
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "category-8",
+      "title": "8. Autoimmune & Inflammatory Disorders",
+      "conditions": [
+        {
+          "name": "Rheumatoid Arthritis",
+          "medicalDefinition": "Autoimmune joint inflammation causing pain and deformity.",
+          "traumaConnection": "Childhood trauma doubles RA risk; self-attack from internalized abuse.",
+          "prevalence": "1% of population.",
+          "treatmentLimitations": "Immunosuppressants have serious side effects; joint damage continues.",
+          "solution": {
+            "title": "THE B9CONCEPT SOLUTION",
+            "points": [
+              "Cognitive reframing eliminates stored trauma patterns attacking joint tissue.",
+              "Energy Aura Restoration repairs the inflamed energy field in joints.",
+              "Prevents joint destruction and disability."
+            ]
+          }
+        },
+        {
+          "name": "Systemic Lupus Erythematosus",
+          "medicalDefinition": "Multi-system autoimmune disease affecting skin, joints, organs.",
+          "traumaConnection": "70% report significant trauma; immune system attacks entire body.",
+          "prevalence": "0.05% of population.",
+          "treatmentLimitations": "Life-threatening flares; organ damage accumulates.",
+          "solution": {
+            "title": "THE B9CONCEPT SOLUTION",
+            "points": [
+              "Cognitive reframing eliminates stored trauma patterns creating systemic inflammation.",
+              "Energy Aura Restoration repairs the attacking energy field throughout body.",
+              "Prevents lupus flares and organ damage."
+            ]
+          }
+        },
+        {
+          "name": "Hashimoto's Thyroiditis",
+          "medicalDefinition": "Autoimmune destruction of thyroid causing hypothyroidism.",
+          "traumaConnection": "Suppressed voice from trauma manifests as thyroid attack.",
+          "prevalence": "5% of population.",
+          "treatmentLimitations": "Requires lifelong hormone replacement; antibodies persist.",
+          "solution": {
+            "title": "THE B9CONCEPT SOLUTION",
+            "points": [
+              "Cognitive reframing eliminates stored trauma patterns attacking thyroid.",
+              "Energy Aura Restoration repairs the disrupted energy field in thyroid gland.",
+              "Prevents thyroid destruction and metabolic dysfunction."
+            ]
+          }
+        },
+        {
+          "name": "Sjögren's Syndrome",
+          "medicalDefinition": "Autoimmune destruction of moisture-producing glands.",
+          "traumaConnection": "Crying suppression from trauma; body stops producing tears.",
+          "prevalence": "0.5% of population.",
+          "treatmentLimitations": "Symptomatic treatment only; progressive dryness.",
+          "solution": {
+            "title": "THE B9CONCEPT SOLUTION",
+            "points": [
+              "Cognitive reframing eliminates stored trauma patterns drying glands.",
+              "Energy Aura Restoration repairs the blocked energy field in exocrine glands.",
+              "Prevents gland destruction and dryness complications."
+            ]
+          }
+        },
+        {
+          "name": "Ankylosing Spondylitis",
+          "medicalDefinition": "Inflammatory arthritis primarily affecting spine and pelvis.",
+          "traumaConnection": "Rigidity from trauma manifests as spinal fusion.",
+          "prevalence": "0.5% of population.",
+          "treatmentLimitations": "Progressive fusion despite biologics; disability common.",
+          "solution": {
+            "title": "THE B9CONCEPT SOLUTION",
+            "points": [
+              "Cognitive reframing eliminates stored trauma patterns stiffening spine.",
+              "Energy Aura Restoration repairs the rigid energy field in spinal joints.",
+              "Prevents spinal fusion and mobility loss."
+            ]
+          }
+        },
+        {
+          "name": "Celiac Disease",
+          "medicalDefinition": "Autoimmune reaction to gluten damaging small intestine.",
+          "traumaConnection": "Rejection of nourishment from early trauma; body attacks food processing.",
+          "prevalence": "1% of population.",
+          "treatmentLimitations": "Strict lifelong diet required; cross-contamination risks.",
+          "solution": {
+            "title": "THE B9CONCEPT SOLUTION",
+            "points": [
+              "Cognitive reframing eliminates stored trauma patterns rejecting nourishment.",
+              "Energy Aura Restoration repairs the reactive energy field in intestinal lining.",
+              "Prevents gluten reactions and nutritional deficiencies."
+            ]
+          }
+        },
+        {
+          "name": "Type 1 Diabetes (Late Onset)",
+          "medicalDefinition": "Autoimmune destruction of insulin-producing cells.",
+          "traumaConnection": "Major stress triggers autoimmune attack on pancreas.",
+          "prevalence": "0.5% of population.",
+          "treatmentLimitations": "Requires lifelong insulin; complications inevitable.",
+          "solution": {
+            "title": "THE B9CONCEPT SOLUTION",
+            "points": [
+              "Cognitive reframing eliminates stored trauma patterns destroying beta cells.",
+              "Energy Aura Restoration repairs the attacked energy field in pancreas.",
+              "Prevents diabetic complications and organ damage."
+            ]
+          }
+        },
+        {
+          "name": "Polymyalgia Rheumatica",
+          "medicalDefinition": "Inflammatory disorder causing muscle pain and stiffness.",
+          "traumaConnection": "Accumulated life stress creates widespread inflammation.",
+          "prevalence": "0.5% of adults over 50.",
+          "treatmentLimitations": "Requires long-term steroids with serious side effects.",
+          "solution": {
+            "title": "THE B9CONCEPT SOLUTION",
+            "points": [
+              "Cognitive reframing eliminates stored trauma patterns inflaming muscles.",
+              "Energy Aura Restoration repairs the painful energy field in muscle groups.",
+              "Prevents inflammatory episodes and steroid dependence."
+            ]
+          }
+        },
+        {
+          "name": "Chronic Vasculitis",
+          "medicalDefinition": "Blood vessel inflammation causing organ damage.",
+          "traumaConnection": "Circulatory system under attack from internalized trauma.",
+          "prevalence": "Rare but serious.",
+          "treatmentLimitations": "Aggressive immunosuppression required; organ damage common.",
+          "solution": {
+            "title": "THE B9CONCEPT SOLUTION",
+            "points": [
+              "Cognitive reframing eliminates stored trauma patterns attacking vessels.",
+              "Energy Aura Restoration repairs the inflamed energy field in blood vessels.",
+              "Prevents vasculitis flares and organ damage."
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "category-9",
+      "title": "9. Mental Health & Psychiatric Disorders",
+      "conditions": [
+        {
+          "name": "Treatment-Resistant Depression",
+          "medicalDefinition": "Major depression unresponsive to multiple medication trials.",
+          "traumaConnection": "75% have significant trauma history; brain structure permanently altered.",
+          "prevalence": "30% of depression cases become treatment-resistant.",
+          "treatmentLimitations": "Multiple failed medications; ECT has memory side effects.",
+          "solution": {
+            "title": "THE B9CONCEPT SOLUTION",
+            "points": [
+              "Cognitive reframing eliminates stored trauma patterns creating depressive loops.",
+              "Energy Aura Restoration repairs the depleted energy field in mood centers.",
+              "Prevents depressive episodes and suicidal ideation."
+            ]
+          }
+        },
+        {
+          "name": "Generalized Anxiety Disorder",
+          "medicalDefinition": "Persistent excessive worry affecting daily function.",
+          "traumaConnection": "Hypervigilance from trauma becomes chronic anxiety state.",
+          "prevalence": "6% of population.",
+          "treatmentLimitations": "Medications cause dependence; anxiety returns when stopped.",
+          "solution": {
+            "title": "THE B9CONCEPT SOLUTION",
+            "points": [
+              "Cognitive reframing eliminates stored trauma patterns generating constant fear.",
+              "Energy Aura Restoration repairs the alarmed energy field in anxiety centers.",
+              "Prevents anxiety spirals and panic development."
+            ]
+          }
+        },
+        {
+          "name": "Post-Traumatic Stress Disorder",
+          "medicalDefinition": "Persistent trauma symptoms including flashbacks and hypervigilance.",
+          "traumaConnection": "Direct result of unprocessed traumatic experiences.",
+          "prevalence": "8% of population lifetime.",
+          "treatmentLimitations": "Therapy partially effective; medications don't cure.",
+          "solution": {
+            "title": "THE B9CONCEPT SOLUTION",
+            "points": [
+              "Cognitive reframing eliminates stored trauma patterns creating PTSD symptoms.",
+              "Energy Aura Restoration repairs the shattered energy field from trauma.",
+              "Prevents trauma reactivation and symptom recurrence."
+            ]
+          }
+        },
+        {
+          "name": "Obsessive-Compulsive Disorder",
+          "medicalDefinition": "Intrusive thoughts with compulsive behaviors for relief.",
+          "traumaConnection": "Rituals develop to control overwhelming trauma feelings.",
+          "prevalence": "2% of population.",
+          "treatmentLimitations": "High relapse rate; medications have side effects.",
+          "solution": {
+            "title": "THE B9CONCEPT SOLUTION",
+            "points": [
+              "Cognitive reframing eliminates stored trauma patterns driving compulsions.",
+              "Energy Aura Restoration repairs the looping energy field in OCD circuits.",
+              "Prevents obsessive thoughts and compulsive behaviors."
+            ]
+          }
+        },
+        {
+          "name": "Bipolar Disorder",
+          "medicalDefinition": "Extreme mood swings between mania and depression.",
+          "traumaConnection": "50% have childhood trauma; emotional dysregulation from abuse.",
+          "prevalence": "2.8% of population.",
+          "treatmentLimitations": "Mood stabilizers have serious side effects; episodes recur.",
+          "solution": {
+            "title": "THE B9CONCEPT SOLUTION",
+            "points": [
+              "Cognitive reframing eliminates stored trauma patterns creating mood instability.",
+              "Energy Aura Restoration repairs the chaotic energy field in mood regulation.",
+              "Prevents manic and depressive episodes."
+            ]
+          }
+        },
+        {
+          "name": "Social Anxiety Disorder",
+          "medicalDefinition": "Intense fear of social situations and judgment.",
+          "traumaConnection": "Social trauma creates persistent fear of human interaction.",
+          "prevalence": "7% of population.",
+          "treatmentLimitations": "Avoidance behaviors persist despite treatment.",
+          "solution": {
+            "title": "THE B9CONCEPT SOLUTION",
+            "points": [
+              "Cognitive reframing eliminates stored trauma patterns creating social fear.",
+              "Energy Aura Restoration repairs the withdrawn energy field in social centers.",
+              "Prevents social anxiety and isolation."
+            ]
+          }
+        },
+        {
+          "name": "Panic Disorder",
+          "medicalDefinition": "Recurrent panic attacks with fear of future attacks.",
+          "traumaConnection": "Body memories of trauma trigger panic responses.",
+          "prevalence": "3% of population.",
+          "treatmentLimitations": "Benzos cause dependence; panic returns when stopped.",
+          "solution": {
+            "title": "THE B9CONCEPT SOLUTION",
+            "points": [
+              "Cognitive reframing eliminates stored trauma patterns triggering panic.",
+              "Energy Aura Restoration repairs the explosive energy field in panic centers.",
+              "Prevents panic attacks and anticipatory anxiety."
+            ]
+          }
+        },
+        {
+          "name": "Chronic Insomnia",
+          "medicalDefinition": "Persistent difficulty falling or staying asleep.",
+          "traumaConnection": "Hypervigilance prevents relaxation; sleep equals vulnerability.",
+          "prevalence": "10% have chronic insomnia.",
+          "treatmentLimitations": "Sleep medications cause dependence and don't restore natural sleep.",
+          "solution": {
+            "title": "THE B9CONCEPT SOLUTION",
+            "points": [
+              "Cognitive reframing eliminates stored trauma patterns preventing sleep.",
+              "Energy Aura Restoration repairs the agitated energy field in sleep centers.",
+              "Prevents insomnia and sleep anxiety."
+            ]
+          }
+        },
+        {
+          "name": "Body Dysmorphic Disorder",
+          "medicalDefinition": "Obsessive focus on perceived physical flaws.",
+          "traumaConnection": "Body shame from abuse creates distorted self-perception.",
+          "prevalence": "2% of population.",
+          "treatmentLimitations": "Cosmetic procedures don't resolve; distortions persist.",
+          "solution": {
+            "title": "THE B9CONCEPT SOLUTION",
+            "points": [
+              "Cognitive reframing eliminates stored trauma patterns distorting body image.",
+              "Energy Aura Restoration repairs the fragmented energy field in self-perception.",
+              "Prevents body obsessions and self-harm behaviors."
+            ]
+          }
+        },
+        {
+          "name": "Eating Disorders (Chronic)",
+          "medicalDefinition": "Persistent disordered eating patterns affecting health.",
+          "traumaConnection": "75% have trauma history; food becomes control mechanism.",
+          "prevalence": "9% lifetime prevalence.",
+          "treatmentLimitations": "High relapse rate; medical complications common.",
+          "solution": {
+            "title": "THE B9CONCEPT SOLUTION",
+            "points": [
+              "Cognitive reframing eliminates stored trauma patterns controlling eating.",
+              "Energy Aura Restoration repairs the conflicted energy field around food.",
+              "Prevents eating disorder behaviors and relapses."
+            ]
+          }
+        },
+        {
+          "name": "Dissociative Disorders",
+          "medicalDefinition": "Disconnection from thoughts, memories, or identity.",
+          "traumaConnection": "Extreme trauma creates splitting as survival mechanism.",
+          "prevalence": "1-3% of population.",
+          "treatmentLimitations": "Integration difficult; functionality remains impaired.",
+          "solution": {
+            "title": "THE B9CONCEPT SOLUTION",
+            "points": [
+              "Cognitive reframing eliminates stored trauma patterns causing dissociation.",
+              "Energy Aura Restoration repairs the fragmented energy field of consciousness.",
+              "Prevents dissociative episodes and identity confusion."
+            ]
+          }
+        },
+        {
+          "name": "Chronic Adjustment Disorders",
+          "medicalDefinition": "Prolonged difficulty adapting to life changes.",
+          "traumaConnection": "Reduced resilience from past trauma; overwhelmed by change.",
+          "prevalence": "5-20% in clinical settings.",
+          "treatmentLimitations": "Coping skills training has limited lasting effect.",
+          "solution": {
+            "title": "THE B9CONCEPT SOLUTION",
+            "points": [
+              "Cognitive reframing eliminates stored trauma patterns preventing adaptation.",
+              "Energy Aura Restoration repairs the rigid energy field resisting change.",
+              "Builds resilience and adaptation capacity."
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "category-10",
+      "title": "10. Autonomic Nervous System Disorders",
+      "conditions": [
+        {
+          "name": "Dysautonomia",
+          "medicalDefinition": "Malfunction of autonomic nervous system affecting multiple organs.",
+          "traumaConnection": "Trauma disrupts automatic body regulation permanently.",
+          "prevalence": "1% of population.",
+          "treatmentLimitations": "Complex management; quality of life severely impacted.",
+          "solution": {
+            "title": "THE B9CONCEPT SOLUTION",
+            "points": [
+              "Cognitive reframing eliminates stored trauma patterns disrupting autonomic function.",
+              "Energy Aura Restoration repairs the chaotic energy field in autonomic centers.",
+              "Prevents autonomic crises and organ dysfunction."
+            ]
+          }
+        },
+        {
+          "name": "Chronic Orthostatic Intolerance",
+          "medicalDefinition": "Inability to maintain blood pressure when upright.",
+          "traumaConnection": "Collapse response from trauma becomes physical pattern.",
+          "prevalence": "Common in trauma survivors.",
+          "treatmentLimitations": "Salt and fluids provide minimal improvement.",
+          "solution": {
+            "title": "THE B9CONCEPT SOLUTION",
+            "points": [
+              "Cognitive reframing eliminates stored trauma patterns causing blood pressure drops.",
+              "Energy Aura Restoration repairs the unstable energy field in circulation control.",
+              "Prevents orthostatic episodes and fainting."
+            ]
+          }
+        },
+        {
+          "name": "Temperature Regulation Disorders",
+          "medicalDefinition": "Inability to maintain normal body temperature.",
+          "traumaConnection": "Freeze response from trauma disrupts thermoregulation.",
+          "prevalence": "Often undiagnosed.",
+          "treatmentLimitations": "Environmental management only; core dysfunction remains.",
+          "solution": {
+            "title": "THE B9CONCEPT SOLUTION",
+            "points": [
+              "Cognitive reframing eliminates stored trauma patterns disrupting temperature control.",
+              "Energy Aura Restoration repairs the confused energy field in temperature centers.",
+              "Prevents temperature dysregulation and discomfort."
+            ]
+          }
+        },
+        {
+          "name": "Neurogenic Bladder",
+          "medicalDefinition": "Loss of normal bladder control from nerve dysfunction.",
+          "traumaConnection": "Pelvic trauma disrupts bladder nerve connections.",
+          "prevalence": "Common after trauma.",
+          "treatmentLimitations": "Catheterization often required; infections common.",
+          "solution": {
+            "title": "THE B9CONCEPT SOLUTION",
+            "points": [
+              "Cognitive reframing eliminates stored trauma patterns paralyzing bladder nerves.",
+              "Energy Aura Restoration repairs the disconnected energy field in bladder control.",
+              "Prevents bladder dysfunction and infections."
+            ]
+          }
+        },
+        {
+          "name": "Gastroparesis (Autonomic)",
+          "medicalDefinition": "Delayed stomach emptying from autonomic dysfunction.",
+          "traumaConnection": "Gut-brain axis disrupted by emotional trauma.",
+          "prevalence": "Increasing recognition.",
+          "treatmentLimitations": "Limited medication options; feeding tubes sometimes needed.",
+          "solution": {
+            "title": "THE B9CONCEPT SOLUTION",
+            "points": [
+              "Cognitive reframing eliminates stored trauma patterns freezing digestion.",
+              "Energy Aura Restoration repairs the paralyzed energy field in stomach nerves.",
+              "Prevents gastroparesis and nutritional deficiencies."
+            ]
+          }
+        },
+        {
+          "name": "Chronic Constipation (Autonomic)",
+          "medicalDefinition": "Severe constipation from autonomic nerve dysfunction.",
+          "traumaConnection": "Holding pattern from trauma affects elimination.",
+          "prevalence": "Common in trauma survivors.",
+          "treatmentLimitations": "Laxative dependence develops; underlying dysfunction persists.",
+          "solution": {
+            "title": "THE B9CONCEPT SOLUTION",
+            "points": [
+              "Cognitive reframing eliminates stored trauma patterns blocking elimination.",
+              "Energy Aura Restoration repairs the frozen energy field in bowel nerves.",
+              "Prevents constipation and bowel dysfunction."
+            ]
+          }
+        },
+        {
+          "name": "Pupillary Dysfunction",
+          "medicalDefinition": "Abnormal pupil responses affecting vision and light sensitivity.",
+          "traumaConnection": "Hypervigilance creates abnormal pupil reactivity.",
+          "prevalence": "Often subtle and undiagnosed.",
+          "treatmentLimitations": "No specific treatment; sunglasses only management.",
+          "solution": {
+            "title": "THE B9CONCEPT SOLUTION",
+            "points": [
+              "Cognitive reframing eliminates stored trauma patterns affecting pupils.",
+              "Energy Aura Restoration repairs the reactive energy field in pupil control.",
+              "Prevents light sensitivity and vision problems."
+            ]
+          }
+        },
+        {
+          "name": "Chronic Sweating Disorders",
+          "medicalDefinition": "Abnormal sweating patterns from autonomic dysfunction.",
+          "traumaConnection": "Fear response creates abnormal sweat patterns.",
+          "prevalence": "Affects quality of life significantly.",
+          "treatmentLimitations": "Antiperspirants insufficient; surgery risky.",
+          "solution": {
+            "title": "THE B9CONCEPT SOLUTION",
+            "points": [
+              "Cognitive reframing eliminates stored trauma patterns triggering sweating.",
+              "Energy Aura Restoration repairs the overactive energy field in sweat control.",
+              "Prevents abnormal sweating and social distress."
+            ]
+          }
+        },
+        {
+          "name": "Heart Rate Variability Dysfunction",
+          "medicalDefinition": "Loss of normal heart rate fluctuations indicating poor autonomic balance.",
+          "traumaConnection": "Chronic stress removes healthy heart rate variability.",
+          "prevalence": "Common in PTSD.",
+          "treatmentLimitations": "Biofeedback provides minimal lasting improvement.",
+          "solution": {
+            "title": "THE B9CONCEPT SOLUTION",
+            "points": [
+              "Cognitive reframing eliminates stored trauma patterns rigidifying heart rate.",
+              "Energy Aura Restoration repairs the inflexible energy field in cardiac control.",
+              "Restores healthy heart rate variability."
+            ]
+          }
+        },
+        {
+          "name": "Neurally Mediated Hypotension",
+          "medicalDefinition": "Sudden blood pressure drops triggered by prolonged standing.",
+          "traumaConnection": "Collapse response from trauma becomes autonomic pattern.",
+          "prevalence": "Common cause of fainting.",
+          "treatmentLimitations": "Medications partially effective; lifestyle limitations.",
+          "solution": {
+            "title": "THE B9CONCEPT SOLUTION",
+            "points": [
+              "Cognitive reframing eliminates stored trauma patterns triggering blood pressure drops.",
+              "Energy Aura Restoration repairs the unstable energy field in pressure regulation.",
+              "Prevents hypotensive episodes and fainting."
+            ]
+          }
+        },
+        {
+          "name": "Chronic Nausea (Autonomic)",
+          "medicalDefinition": "Persistent nausea from autonomic dysfunction.",
+          "traumaConnection": "Body rejection response to trauma affects nausea centers.",
+          "prevalence": "Often misdiagnosed.",
+          "treatmentLimitations": "Anti-nausea medications provide limited relief.",
+          "solution": {
+            "title": "THE B9CONCEPT SOLUTION",
+            "points": [
+              "Cognitive reframing eliminates stored trauma patterns triggering nausea.",
+              "Energy Aura Restoration repairs the nauseated energy field in autonomic centers.",
+              "Prevents chronic nausea and eating difficulties."
+            ]
+          }
+        },
+        {
+          "name": "Autonomic Seizures",
+          "medicalDefinition": "Seizure-like episodes from autonomic dysfunction without EEG changes.",
+          "traumaConnection": "Overwhelming trauma creates seizure-like autonomic storms.",
+          "prevalence": "Often misdiagnosed as epilepsy.",
+          "treatmentLimitations": "Anti-seizure medications ineffective; episodes continue.",
+          "solution": {
+            "title": "THE B9CONCEPT SOLUTION",
+            "points": [
+              "Cognitive reframing eliminates stored trauma patterns triggering autonomic storms.",
+              "Energy Aura Restoration repairs the stormy energy field in autonomic system.",
+              "Prevents autonomic seizures and related crises."
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "category-11",
+      "title": "11. Sleep & Circadian Rhythm Disorders",
+      "conditions": [
+        {
+          "name": "Sleep Apnea (Central)",
+          "medicalDefinition": "Breathing stops during sleep from brain signal failure.",
+          "traumaConnection": "Dissociation during sleep stops breathing signals.",
+          "prevalence": "Less common than obstructive type.",
+          "treatmentLimitations": "CPAP less effective; adaptive devices expensive.",
+          "solution": {
+            "title": "THE B9CONCEPT SOLUTION",
+            "points": [
+              "Cognitive reframing eliminates stored trauma patterns stopping breath signals.",
+              "Energy Aura Restoration repairs the disconnected energy field in breathing centers.",
+              "Prevents apnea episodes and sleep fragmentation."
+            ]
+          }
+        },
+        {
+          "name": "Narcolepsy",
+          "medicalDefinition": "Sudden sleep attacks and cataplexy with loss of muscle tone.",
+          "traumaConnection": "Dissociative escape into sleep from overwhelming trauma.",
+          "prevalence": "1 in 2,000 people.",
+          "treatmentLimitations": "Stimulants have side effects; cataplexy persists.",
+          "solution": {
+            "title": "THE B9CONCEPT SOLUTION",
+            "points": [
+              "Cognitive reframing eliminates stored trauma patterns triggering sleep attacks.",
+              "Energy Aura Restoration repairs the fragmented energy field in sleep-wake centers.",
+              "Prevents narcoleptic episodes and cataplexy."
+            ]
+          }
+        },
+        {
+          "name": "Delayed Sleep Phase Syndrome",
+          "medicalDefinition": "Inability to fall asleep and wake at conventional times.",
+          "traumaConnection": "Night safety from childhood trauma creates delayed sleep pattern.",
+          "prevalence": "7-16% of adolescents and young adults.",
+          "treatmentLimitations": "Light therapy partially effective; social jet lag persists.",
+          "solution": {
+            "title": "THE B9CONCEPT SOLUTION",
+            "points": [
+              "Cognitive reframing eliminates stored trauma patterns delaying sleep timing.",
+              "Energy Aura Restoration repairs the shifted energy field in circadian clock.",
+              "Prevents sleep phase delays and social dysfunction."
+            ]
+          }
+        },
+        {
+          "name": "Chronic Nightmares",
+          "medicalDefinition": "Recurrent distressing dreams disrupting sleep quality.",
+          "traumaConnection": "Unprocessed trauma replays during REM sleep.",
+          "prevalence": "5% of adults have weekly nightmares.",
+          "treatmentLimitations": "Dream rehearsal therapy partially effective.",
+          "solution": {
+            "title": "THE B9CONCEPT SOLUTION",
+            "points": [
+              "Cognitive reframing eliminates stored trauma patterns creating nightmares.",
+              "Energy Aura Restoration repairs the disturbed energy field in dream centers.",
+              "Prevents nightmares and sleep terror."
+            ]
+          }
+        },
+        {
+          "name": "Sleep-Wake Cycle Disorders",
+          "medicalDefinition": "Inability to maintain regular sleep-wake patterns.",
+          "traumaConnection": "Chaotic childhood creates inability to establish rhythms.",
+          "prevalence": "Common in trauma survivors.",
+          "treatmentLimitations": "Melatonin and light therapy have limited effect.",
+          "solution": {
+            "title": "THE B9CONCEPT SOLUTION",
+            "points": [
+              "Cognitive reframing eliminates stored trauma patterns disrupting rhythms.",
+              "Energy Aura Restoration repairs the chaotic energy field in circadian system.",
+              "Establishes healthy sleep-wake cycles."
+            ]
+          }
+        },
+        {
+          "name": "Periodic Limb Movement Disorder",
+          "medicalDefinition": "Repetitive limb movements during sleep causing arousals.",
+          "traumaConnection": "Body's attempt to discharge trauma energy during sleep.",
+          "prevalence": "4% of adults.",
+          "treatmentLimitations": "Medications have side effects; movements often continue.",
+          "solution": {
+            "title": "THE B9CONCEPT SOLUTION",
+            "points": [
+              "Cognitive reframing eliminates stored trauma patterns causing limb movements.",
+              "Energy Aura Restoration repairs the restless energy field in motor system.",
+              "Prevents limb movements and sleep disruption."
+            ]
+          }
+        },
+        {
+          "name": "Restless Leg Syndrome",
+          "medicalDefinition": "Uncomfortable leg sensations with irresistible urge to move, worse at night.",
+          "traumaConnection": "Stored trauma energy creates unbearable leg sensations.",
+          "prevalence": "10% of population.",
+          "treatmentLimitations": "Dopamine agonists cause augmentation; symptoms worsen.",
+          "solution": {
+            "title": "THE B9CONCEPT SOLUTION",
+            "points": [
+              "Cognitive reframing eliminates stored trauma patterns creating leg discomfort.",
+              "Energy Aura Restoration repairs the agitated energy field in leg nerves.",
+              "Prevents leg discomfort and sleep disruption."
+            ]
+          }
+        },
+        {
+          "name": "Circadian Rhythm Disorders",
+          "medicalDefinition": "Misalignment between internal clock and external environment.",
+          "traumaConnection": "Trauma disrupts natural biological rhythms permanently.",
+          "prevalence": "Increasing with modern lifestyle.",
+          "treatmentLimitations": "Difficult to maintain synchronized rhythms.",
+          "solution": {
+            "title": "THE B9CONCEPT SOLUTION",
+            "points": [
+              "Cognitive reframing eliminates stored trauma patterns disrupting biological clock.",
+              "Energy Aura Restoration repairs the dysregulated energy field in master clock.",
+              "Prevents circadian disruption and sleep-wake disorders."
+            ]
+          }
+        },
+        {
+          "name": "Chronic Fatigue and Hypersomnia",
+          "medicalDefinition": "Excessive daytime sleepiness despite adequate night sleep.",
+          "traumaConnection": "Exhaustion from carrying trauma burden manifests as hypersomnia.",
+          "prevalence": "5% of population.",
+          "treatmentLimitations": "Stimulants provide temporary relief; underlying fatigue remains.",
+          "solution": {
+            "title": "THE B9CONCEPT SOLUTION",
+            "points": [
+              "Cognitive reframing eliminates stored trauma patterns causing exhaustion.",
+              "Energy Aura Restoration repairs the exhausted energy field in wakefulness centers.",
+              "Prevents energy depletion and excessive sleep patterns."
+            ]
+          }
+        },
+        {
+          "name": "REM Sleep Behavior Disorder",
+          "medicalDefinition": "Acting out dreams due to lack of normal sleep paralysis.",
+          "traumaConnection": "Fight response during sleep from unresolved trauma.",
+          "prevalence": "0.5% of population.",
+          "treatmentLimitations": "Medications partially control; injury risk remains.",
+          "solution": {
+            "title": "THE B9CONCEPT SOLUTION",
+            "points": [
+              "Cognitive reframing eliminates stored trauma patterns disrupting REM paralysis.",
+              "Energy Aura Restoration repairs the chaotic energy field in REM control centers.",
+              "Prevents REM sleep disruption and injury risk."
+            ]
+          }
+        },
+        {
+          "name": "Night Terrors (Adult)",
+          "medicalDefinition": "Partial arousal from deep sleep with intense fear and screaming.",
+          "traumaConnection": "Severe trauma erupts during vulnerable deep sleep.",
+          "prevalence": "2% of adults.",
+          "treatmentLimitations": "Medications have limited effect; episodes terrifying.",
+          "solution": {
+            "title": "THE B9CONCEPT SOLUTION",
+            "points": [
+              "Cognitive reframing eliminates stored trauma patterns triggering night terrors.",
+              "Energy Aura Restoration repairs the terrified energy field in sleep centers.",
+              "Prevents terror episodes and sleep disturbance."
+            ]
+          }
+        },
+        {
+          "name": "Chronic Sleep Paralysis",
+          "medicalDefinition": "Inability to move upon waking with hallucinations.",
+          "traumaConnection": "Freeze response from trauma manifests during sleep transitions.",
+          "prevalence": "8% experience regularly.",
+          "treatmentLimitations": "No specific treatment; episodes remain frightening.",
+          "solution": {
+            "title": "THE B9CONCEPT SOLUTION",
+            "points": [
+              "Cognitive reframing eliminates stored trauma patterns causing paralysis.",
+              "Energy Aura Restoration repairs the frozen energy field in sleep-wake transition.",
+              "Prevents paralysis episodes and sleep terror."
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "category-12",
+      "title": "12. Metabolic & Endocrine Disorders",
+      "conditions": [
+        {
+          "name": "Type 2 Diabetes",
+          "medicalDefinition": "Insulin resistance and high blood sugar causing multi-organ damage.",
+          "traumaConnection": "ACEs increase diabetes risk by 60%; stress hormones disrupt glucose.",
+          "prevalence": "10% of adults globally.",
+          "treatmentLimitations": "Progressive despite medications; complications inevitable.",
+          "solution": {
+            "title": "THE B9CONCEPT SOLUTION",
+            "points": [
+              "Cognitive reframing eliminates stored trauma patterns creating insulin resistance.",
+              "Energy Aura Restoration repairs the disrupted energy field in metabolic regulation.",
+              "Prevents diabetic complications and metabolic decline."
+            ]
+          }
+        },
+        {
+          "name": "Metabolic Syndrome",
+          "medicalDefinition": "Cluster of conditions increasing heart disease and diabetes risk.",
+          "traumaConnection": "Chronic stress creates metabolic dysfunction cluster.",
+          "prevalence": "25% of adults.",
+          "treatmentLimitations": "Multiple medications required; progression common.",
+          "solution": {
+            "title": "THE B9CONCEPT SOLUTION",
+            "points": [
+              "Cognitive reframing eliminates stored trauma patterns disrupting metabolism.",
+              "Energy Aura Restoration repairs the chaotic energy field in metabolic systems.",
+              "Prevents metabolic complications and chronic disease."
+            ]
+          }
+        },
+        {
+          "name": "Chronic Adrenal Fatigue/HPA Axis Dysfunction",
+          "medicalDefinition": "Exhausted stress response system from chronic activation.",
+          "traumaConnection": "Direct result of prolonged trauma response exhausting adrenals.",
+          "prevalence": "Common in trauma survivors.",
+          "treatmentLimitations": "No recognized medical treatment; supplements minimal help.",
+          "solution": {
+            "title": "THE B9CONCEPT SOLUTION",
+            "points": [
+              "Cognitive reframing eliminates stored trauma patterns exhausting adrenals.",
+              "Energy Aura Restoration repairs the depleted energy field in adrenal system.",
+              "Prevents adrenal burnout and stress-related illness."
+            ]
+          }
+        },
+        {
+          "name": "Thyroid Disorders (Hypothyroidism)",
+          "medicalDefinition": "Underactive thyroid causing fatigue, weight gain, depression.",
+          "traumaConnection": "Suppressed self-expression slows thyroid function.",
+          "prevalence": "5% of population.",
+          "treatmentLimitations": "Requires lifelong hormone replacement; symptoms persist.",
+          "solution": {
+            "title": "THE B9CONCEPT SOLUTION",
+            "points": [
+              "Cognitive reframing eliminates stored trauma patterns suppressing thyroid.",
+              "Energy Aura Restoration repairs the sluggish energy field in thyroid gland.",
+              "Prevents thyroid dysfunction and metabolic complications."
+            ]
+          }
+        },
+        {
+          "name": "Chronic Obesity",
+          "medicalDefinition": "Excessive body weight resistant to conventional weight loss.",
+          "traumaConnection": "70% of severely obese have significant trauma; protection through weight.",
+          "prevalence": "40% of adults.",
+          "treatmentLimitations": "95% regain weight; surgery has complications.",
+          "solution": {
+            "title": "THE B9CONCEPT SOLUTION",
+            "points": [
+              "Cognitive reframing eliminates stored trauma patterns driving weight gain.",
+              "Energy Aura Restoration repairs the imbalanced energy field in appetite centers.",
+              "Prevents weight regain and metabolic complications."
+            ]
+          }
+        },
+        {
+          "name": "Polycystic Ovary Syndrome (PCOS)",
+          "medicalDefinition": "Hormonal disorder causing cysts, irregular periods, and metabolic issues.",
+          "traumaConnection": "Early trauma disrupts hormonal development and balance.",
+          "prevalence": "10% of reproductive-age women.",
+          "treatmentLimitations": "Symptoms managed not cured; fertility issues persist.",
+          "solution": {
+            "title": "THE B9CONCEPT SOLUTION",
+            "points": [
+              "Cognitive reframing eliminates stored trauma patterns disrupting hormones.",
+              "Energy Aura Restoration repairs the imbalanced energy field in ovaries.",
+              "Prevents PCOS complications and reproductive dysfunction."
+            ]
+          }
+        },
+        {
+          "name": "Chronic Low Testosterone (Hypogonadism)",
+          "medicalDefinition": "Insufficient testosterone causing fatigue, depression, low libido.",
+          "traumaConnection": "Emasculation from trauma suppresses testosterone production.",
+          "prevalence": "20% of men over 60.",
+          "treatmentLimitations": "Replacement therapy has cardiovascular risks.",
+          "solution": {
+            "title": "THE B9CONCEPT SOLUTION",
+            "points": [
+              "Cognitive reframing eliminates stored trauma patterns suppressing testosterone.",
+              "Energy Aura Restoration repairs the depleted energy field in testes.",
+              "Prevents hormonal decline and male health complications."
+            ]
+          }
+        },
+        {
+          "name": "Growth Hormone Deficiency (Adult)",
+          "medicalDefinition": "Low growth hormone causing fatigue, muscle loss, aging.",
+          "traumaConnection": "Chronic stress suppresses growth hormone release.",
+          "prevalence": "Often undiagnosed.",
+          "treatmentLimitations": "Expensive injections; cancer risk concerns.",
+          "solution": {
+            "title": "THE B9CONCEPT SOLUTION",
+            "points": [
+              "Cognitive reframing eliminates stored trauma patterns inhibiting growth hormone.",
+              "Energy Aura Restoration repairs the suppressed energy field in pituitary.",
+              "Prevents aging acceleration and tissue deterioration."
+            ]
+          }
+        },
+        {
+          "name": "Chronic Cortisol Dysregulation",
+          "medicalDefinition": "Abnormal cortisol patterns causing multiple health issues.",
+          "traumaConnection": "Direct result of chronic trauma response activation.",
+          "prevalence": "Epidemic in modern society.",
+          "treatmentLimitations": "No direct treatment; stress management insufficient.",
+          "solution": {
+            "title": "THE B9CONCEPT SOLUTION",
+            "points": [
+              "Cognitive reframing eliminates stored trauma patterns disrupting cortisol.",
+              "Energy Aura Restoration repairs the chaotic energy field in HPA axis.",
+              "Prevents stress-related illness and hormonal dysfunction."
+            ]
+          }
+        },
+        {
+          "name": "Insulin Resistance",
+          "medicalDefinition": "Cells stop responding to insulin causing high blood sugar.",
+          "traumaConnection": "Chronic stress hormones block insulin effectiveness.",
+          "prevalence": "35% of adults.",
+          "treatmentLimitations": "Progressive condition; medications lose effectiveness.",
+          "solution": {
+            "title": "THE B9CONCEPT SOLUTION",
+            "points": [
+              "Cognitive reframing eliminates stored trauma patterns creating resistance.",
+              "Energy Aura Restoration repairs the blocked energy field in insulin receptors.",
+              "Prevents diabetes development and metabolic complications."
+            ]
+          }
+        },
+        {
+          "name": "Chronic Electrolyte Imbalances",
+          "medicalDefinition": "Persistent abnormal mineral levels affecting cell function.",
+          "traumaConnection": "Autonomic dysfunction disrupts mineral balance.",
+          "prevalence": "Common in chronic illness.",
+          "treatmentLimitations": "Supplementation doesn't address root cause.",
+          "solution": {
+            "title": "THE B9CONCEPT SOLUTION",
+            "points": [
+              "Cognitive reframing eliminates stored trauma patterns disrupting minerals.",
+              "Energy Aura Restoration repairs the imbalanced energy field in mineral regulation.",
+              "Prevents electrolyte crises and cellular dysfunction."
+            ]
+          }
+        },
+        {
+          "name": "Premature Aging Syndromes",
+          "medicalDefinition": "Accelerated aging processes affecting multiple systems.",
+          "traumaConnection": "Trauma ages body prematurely through oxidative stress.",
+          "prevalence": "Trauma survivors age faster biologically.",
+          "treatmentLimitations": "No treatment reverses aging acceleration.",
+          "solution": {
+            "title": "THE B9CONCEPT SOLUTION",
+            "points": [
+              "Cognitive reframing eliminates stored trauma patterns accelerating aging.",
+              "Energy Aura Restoration repairs the deteriorated energy field in cellular regeneration.",
+              "Prevents accelerated aging and age-related decline."
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

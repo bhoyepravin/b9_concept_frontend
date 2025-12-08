@@ -1,0 +1,76 @@
+{
+  "categories": [
+    {
+      "title": "Chronic Pain & Musculoskeletal",
+      "population": "116 million Americans (35%)",
+      "keyFinding": "3.3x higher chronic pain risk in trauma survivors",
+      "description": "This category encompasses conditions where trauma manifests as persistent physical pain throughout the musculoskeletal system. The massive population affected demonstrates how trauma literally becomes embedded in our muscles, joints, and nervous system, creating widespread suffering that conventional medicine struggles to address."
+    },
+    {
+      "title": "Digestive & Gastrointestinal",
+      "population": "70 million Americans (21%)",
+      "keyFinding": "50% of IBS patients have an abuse history",
+      "description": "The gut-brain connection reveals how emotional trauma directly impacts digestive function. With over one in five people suffering from digestive disorders, this category shows how unprocessed trauma disrupts our most basic bodily functions - the ability to properly digest and absorb nutrients."
+    },
+    {
+      "title": "Cardiovascular & Heart",
+      "population": "121.5 million Americans (48% of adults)",
+      "keyFinding": "ACEs increase heart disease risk by 220%",
+      "description": "Nearly half of all adults suffer from cardiovascular conditions, with childhood trauma more than doubling the risk. The heart, both literally and metaphorically, bears the burden of emotional wounds, manifesting as physical cardiovascular disease that remains the leading cause of death worldwide."
+    },
+    {
+      "title": "Skin & Dermatological",
+      "population": "85 million Americans (26%)",
+      "keyFinding": "70% of chronic skin conditions triggered by stress",
+      "description": "Our skin, the body's largest organ and first line of defense, visibly manifests internal trauma. With over a quarter of the population affected, these conditions show how emotional stress literally gets under our skin, creating visible markers of invisible wounds."
+    },
+    {
+      "title": "Respiratory & Lung",
+      "population": "37 million Americans (11%)",
+      "keyFinding": "Childhood trauma triples asthma risk",
+      "description": "The breath of life becomes constricted by trauma, with childhood experiences tripling the risk of respiratory conditions. These disorders reveal how emotional suffocation manifests as physical breathing difficulties, affecting millions who struggle for each breath."
+    },
+    {
+      "title": "Reproductive & Hormonal",
+      "population": "10-15% of reproductive age adults",
+      "keyFinding": "79% of endometriosis patients report abuse",
+      "description": "Reproductive and hormonal systems are profoundly impacted by trauma, particularly sexual abuse. These conditions affect the very core of human sexuality and reproduction, showing how trauma disrupts our most intimate biological functions and ability to create life."
+    },
+    {
+      "title": "Neurological & Nervous System",
+      "population": "50 million Americans (15%)",
+      "keyFinding": "80% of MS patients report major trauma before onset",
+      "description": "The nervous system, our body's communication network, becomes fundamentally altered by trauma. With 80% of multiple sclerosis patients reporting significant trauma before disease onset, this category reveals how emotional wounds create literal nerve damage and neurological dysfunction."
+    },
+    {
+      "title": "Autoimmune & Inflammatory",
+      "population": "24 million Americans (7%)",
+      "keyFinding": "Childhood trauma doubles autoimmune disease risk",
+      "description": "In autoimmune conditions, the body literally attacks itself - a physical manifestation of internalized trauma. With childhood trauma doubling the risk, these disorders show how early wounds program the immune system to turn against the very body it should protect."
+    },
+    {
+      "title": "Mental Health & Psychiatric",
+      "population": "57.8 million Americans (22.8% of adults)",
+      "keyFinding": "75% of treatment-resistant depression linked to trauma",
+      "description": "Mental health conditions affect nearly a quarter of adults, with trauma being the primary driver of treatment resistance. These disorders demonstrate how unhealed emotional wounds create persistent psychiatric symptoms that conventional treatments cannot resolve."
+    },
+    {
+      "title": "Autonomic Nervous System",
+      "population": "70 million worldwide",
+      "keyFinding": "90% develop after trauma disrupts autonomic function",
+      "description": "The autonomic nervous system, which controls all automatic body functions, becomes dysregulated by trauma in 90% of cases. This category reveals how trauma disrupts the very systems that should operate without conscious control, affecting everything from heart rate to digestion."
+    },
+    {
+      "title": "Sleep & Circadian Rhythm",
+      "population": "70 million Americans (21%)",
+      "keyFinding": "Hypervigilance from trauma prevents restorative sleep",
+      "description": "Sleep, essential for restoration, becomes impossible when trauma creates chronic hypervigilance. With over one in five people affected, these disorders show how trauma robs us of our most basic need - the ability to rest and recover."
+    },
+    {
+      "title": "Metabolic & Endocrine",
+      "population": "100 million Americans (prediabetes/diabetes)",
+      "keyFinding": "ACEs increase diabetes risk by 60%",
+      "description": "Metabolic and endocrine disorders affect a staggering number of people, with childhood trauma increasing diabetes risk by 60%. These conditions reveal how early life stress fundamentally alters our body's ability to process energy and maintain hormonal balance, creating lifelong metabolic dysfunction."
+    }
+  ]
+}

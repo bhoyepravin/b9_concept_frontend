@@ -1,0 +1,36 @@
+{
+  "title": "The Truth the Mainstream Medical Industry Won't Tell You",
+  "subtitle": "After analyzing 137 chronic conditions across 12 medical categories, we discovered a pattern...",
+  "stats": [
+    {
+      "value": 77.4,
+      "title": "Trauma Connection",
+      "description": "The percentage of chronic conditions with a direct link to unresolved trauma patterns.",
+      "color": "#D4AF37",
+      "prefix": "",
+      "suffix": "%",
+      "numberPrefix": "",
+      "numberSuffix": ""
+    },
+    {
+      "value": 68,
+      "title": "\"Incurable\" Labels",
+      "description": "The percentage of sufferers told their condition is for life, offered only symptom management.",
+      "color": "#5CB85C",
+      "prefix": "",
+      "suffix": "%",
+      "numberPrefix": "",
+      "numberSuffix": ""
+    },
+    {
+      "value": 3.8,
+      "title": "Annual Revenue",
+      "description": "The yearly revenue from managing chronic diseases, not curing them.",
+      "color": "#FF6B6B",
+      "prefix": "$",
+      "suffix": "T",
+      "numberPrefix": "",
+      "numberSuffix": ""
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "slideDuration": 6000,
+  "videos": [
+    {
+      "src": "../../assets/videos/B9_Split_VDO_Center_LOGO_FINAL.mp4",
+      "title": "Your Symptoms Aren't Random.",
+      "subtitle": "They're Messages From Your Body. Discover The Hidden Language of Healing."
+    },
+    {
+      "src": "../../assets/videos/FINAL_B9_Philosiphy_VDO_Transperent_Logo_FINAL.mp4",
+      "title": "77.4% of Chronic Conditions",
+      "subtitle": "Trace to One Hidden Cause. See It. Transform It. Live Free."
+    }
+  ]
+}

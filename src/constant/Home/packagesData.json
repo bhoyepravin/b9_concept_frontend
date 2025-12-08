@@ -1,0 +1,111 @@
+{
+  "title": "Choose Your Path to Freedom",
+  "subtitle": "Our programs are designed for decisive results. Select the path that matches your goal.",
+  "packages": [
+    {
+      "id": "discovery",
+      "title": "COGNITIVE TRANSFORMATION",
+      "price": "$1,530",
+      "tagline": "Targeted relief for a specific, pressing challenge.",
+      "isPopular": false,
+      "timeline": "Single session with natural recovery",
+      "bestFor": "Specific conditions, recent onset",
+      "features": [
+        {
+          "title": "ROOT CAUSE DIAGNOSTIC",
+          "description": "Identifies the precise root cause of your challenge.",
+          "benefits": [
+            "Comprehensive health history analysis",
+            "Advanced bio-energetic scanning",
+            "Root cause pattern identification"
+          ]
+        },
+        {
+          "title": "90-MINUTE BREAKTHROUGH SESSION",
+          "description": "Dissolves the root pattern and activates natural healing.",
+          "benefits": [
+            "Targeted cognitive reframing",
+            "Core energy field restoration",
+            "Real-time pattern dissolution"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "complete",
+      "title": "COMPLETE TRANSFORMATION",
+      "price": "$6,120",
+      "tagline": "Resolves complex issues and deep-seated patterns.",
+      "isPopular": true,
+      "timeline": "Intensive + 30-day integration",
+      "bestFor": "Chronic conditions, multiple symptoms",
+      "features": [
+        {
+          "title": "HOLISTIC MULTI-SYSTEM ANALYSIS",
+          "description": "Maps interconnected patterns to create your healing strategy.",
+          "benefits": [
+            "Extended health assessment",
+            "Complex pattern & system analysis",
+            "Personalized healing strategy"
+          ]
+        },
+        {
+          "title": "4-HOUR DEEP TRANSFORMATION",
+          "description": "Clears, restructures, and recalibrates your entire system.",
+          "benefits": [
+            "Multiple advanced healing modalities",
+            "Deep cognitive restructuring",
+            "Complete energy field restoration",
+            "Full nervous system recalibration"
+          ]
+        },
+        {
+          "title": "30-DAY PRIORITY ACCESS",
+          "description": "Ensures lasting results with direct practitioner access.",
+          "benefits": [
+            "Direct practitioner access",
+            "Guided progress monitoring",
+            "One follow-up optimization session"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "executive",
+      "title": "EXECUTIVE TRANSFORMATION",
+      "price": "$12,240",
+      "tagline": "The definitive recalibration for peak performance and renewal.",
+      "isPopular": false,
+      "timeline": "Full day + 90-day executive support",
+      "bestFor": "High-performers, complex trauma",
+      "features": [
+        {
+          "title": "EXECUTIVE LIFE BLUEPRINT",
+          "description": "Creates the blueprint for your total transformation.",
+          "benefits": [
+            "Executive health & life evaluation",
+            "Personalized peak performance blueprint"
+          ]
+        },
+        {
+          "title": "8-HOUR RENEWAL IMMERSION",
+          "description": "A full-day immersion to renew mind, body, and spirit.",
+          "benefits": [
+            "Full-day dedicated transformation",
+            "Advanced cellular memory clearing",
+            "Epigenetic & performance optimization"
+          ]
+        },
+        {
+          "title": "90-DAY CONCIERGE PARTNERSHIP",
+          "description": "Ensures profound results with concierge-level support.",
+          "benefits": [
+            "90-day concierge support",
+            "Weekly progress consultations",
+            "Leadership resilience training"
+          ]
+        }
+      ]
+    }
+  ]
+}

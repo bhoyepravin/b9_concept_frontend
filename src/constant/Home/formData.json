@@ -1,0 +1,319 @@
+{
+  "contactInfo": {
+    "address": "123 Wellness Way, Wellness City, 12345",
+    "phone": "+1 (234) 567-890",
+    "email": "contact@b9concept.com",
+    "hours": "Mon - Fri: 9am - 5pm"
+  },
+  "formSections": [
+    {
+      "title": "Step 1: Current Situation Assessment",
+      "fields": [
+        {
+          "id": "problem",
+          "label": "What specific problem are you experiencing?",
+          "type": "select",
+          "options": [
+            "Anxiety",
+            "Stress",
+            "Lack of Confidence",
+            "Relationship Issues",
+            "Career Challenges",
+            "Health Issues",
+            "Financial Concerns",
+            "Burnout",
+            "Lack of Motivation",
+            "Other"
+          ],
+          "colSpan": "md:col-span-1"
+        },
+        {
+          "id": "duration",
+          "label": "How long has this been persisting?",
+          "type": "select",
+          "options": [
+            "Less than 1 Month",
+            "1-3 Months",
+            "3-6 Months",
+            "6-12 Months",
+            "More than 1 Year",
+            "Other"
+          ],
+          "colSpan": "md:col-span-1"
+        },
+        {
+          "id": "triggers-assessment",
+          "label": "Specific triggers that started/worsened this?",
+          "type": "select",
+          "options": [
+            "Work Deadlines",
+            "Personal Loss",
+            "Conflict",
+            "Health Issues",
+            "Financial Crisis",
+            "Pandemic-Related Stress",
+            "Other"
+          ],
+          "colSpan": "md:col-span-1"
+        },
+        {
+          "id": "medications",
+          "label": "Current medications for this issue?",
+          "type": "select",
+          "options": [
+            "No Medications",
+            "Antidepressants",
+            "Anti-Anxiety Medications",
+            "Sleep Aids",
+            "Herbal Remedies",
+            "Other"
+          ],
+          "colSpan": "md:col-span-1"
+        }
+      ]
+    },
+    {
+      "title": "Step 2: Emotional Patterns & Triggers",
+      "fields": [
+        {
+          "id": "distress-intensifiers",
+          "label": "What intensifies your distress?",
+          "type": "select",
+          "options": [
+            "Deadlines",
+            "Crowded Places",
+            "Family Expectations",
+            "Financial Pressure",
+            "Negative Thoughts",
+            "Public Speaking",
+            "Social Interactions",
+            "Other"
+          ],
+          "colSpan": "md:col-span-1"
+        },
+        {
+          "id": "physical-sensations",
+          "label": "Physical sensations when distressed?",
+          "type": "select",
+          "options": [
+            "Tightness in Chest",
+            "Sweating",
+            "Racing Thoughts",
+            "Nausea",
+            "Restlessness",
+            "Headaches",
+            "Shaking",
+            "Other"
+          ],
+          "colSpan": "md:col-span-1"
+        },
+        {
+          "id": "negative-thoughts",
+          "label": "Recurring negative thoughts?",
+          "type": "select",
+          "options": [
+            "\"I can't do it\"",
+            "\"I'm not good enough\"",
+            "\"Things will never improve\"",
+            "\"I'll always fail\"",
+            "\"I'm a burden\"",
+            "\"I'll be judged\""
+          ],
+          "colSpan": "md:col-span-2"
+        }
+      ]
+    },
+    {
+      "title": "Step 3: Define Your Desired Outcome",
+      "fields": [
+        {
+          "id": "resolution",
+          "label": "What's your ideal resolution?",
+          "type": "select",
+          "options": [
+            "Feeling Calm",
+            "Improved Confidence",
+            "Better Relationships",
+            "Career Growth",
+            "Improved Health",
+            "Financial Stability",
+            "Other"
+          ],
+          "colSpan": "md:col-span-1"
+        },
+        {
+          "id": "timeline",
+          "label": "Timeline for seeing progress?",
+          "type": "select",
+          "options": [
+            "1 Week",
+            "1 Month",
+            "3 Months",
+            "6 Months",
+            "More than 6 Months",
+            "Other"
+          ],
+          "colSpan": "md:col-span-1"
+        },
+        {
+          "id": "confidence",
+          "label": "Confidence in resolving this issue?",
+          "type": "select",
+          "options": [
+            "Very Confident",
+            "Somewhat Confident",
+            "Neutral",
+            "Not Very Confident",
+            "Not Confident at All"
+          ],
+          "colSpan": "md:col-span-2"
+        }
+      ]
+    },
+    {
+      "title": "Step 4: Deeper Insights",
+      "fields": [
+        {
+          "id": "happy-memories",
+          "label": "In happy memories, what do you notice first?",
+          "type": "select",
+          "options": [
+            "Visual (Images)",
+            "Auditory (Sounds)",
+            "Kinesthetic (Feelings)",
+            "Smell",
+            "Taste"
+          ],
+          "colSpan": "md:col-span-1"
+        },
+        {
+          "id": "relaxation-aids",
+          "label": "What helps you feel relaxed?",
+          "type": "select",
+          "options": [
+            "Calm Music",
+            "Nature Sounds",
+            "Lavender Scents",
+            "Candlelight",
+            "Warm Baths",
+            "Other"
+          ],
+          "colSpan": "md:col-span-1"
+        },
+        {
+          "id": "support-system",
+          "label": "Who supports you most?",
+          "type": "select",
+          "options": [
+            "Family",
+            "Friends",
+            "Therapist",
+            "Mentor",
+            "Colleague",
+            "None",
+            "Other"
+          ],
+          "colSpan": "md:col-span-1"
+        },
+        {
+          "id": "recharge-activities",
+          "label": "Activities that help you recharge?",
+          "type": "select",
+          "options": [
+            "Exercise",
+            "Meditation",
+            "Reading",
+            "Journaling",
+            "Time Outdoors",
+            "Creative Hobbies",
+            "Other"
+          ],
+          "colSpan": "md:col-span-1"
+        }
+      ]
+    },
+    {
+      "title": "Step 5: Choose Your Transformation Package",
+      "fields": [
+        {
+          "id": "package",
+          "type": "select",
+          "options": [
+            {
+              "value": "1530",
+              "label": "Cognitive Transformation - For a specific, targeted issue. ($1,530)"
+            },
+            {
+              "value": "6120",
+              "label": "Complete Transformation - For comprehensive, life-changing results. ($6,120)"
+            },
+            {
+              "value": "12240",
+              "label": "Executive Package - A premium, all-inclusive package for leaders. ($12,240)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Step 6: B9Concept Location",
+      "fields": [
+        {
+          "id": "location",
+          "type": "select",
+          "options": [
+            {
+              "value": "",
+              "label": "Please select a location...",
+              "disabled": true
+            },
+            { "value": "usa-chicago", "label": "USA (Chicago)" },
+            { "value": "usa-los-angeles", "label": "USA (Los Angeles)" },
+            { "value": "usa-new-jersey", "label": "USA (New Jersey)" },
+            { "value": "usa-dallas", "label": "USA (Dallas)" },
+            { "value": "uk-london", "label": "United Kingdom (London)" },
+            { "value": "ca-vancouver", "label": "Canada (Vancouver)" },
+            { "value": "in-nashik", "label": "India (Nashik)" },
+            { "value": "in-noida", "label": "India (Noida)" },
+            { "value": "uae-dubai", "label": "UAE (Dubai)" },
+            { "value": "sg-singapore", "label": "Singapore (Singapore)" },
+            { "value": "au-milburn", "label": "Australia (Milburn)" }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Step 8: Secure Your Transformation",
+      "fields": [
+        {
+          "id": "card-name",
+          "label": "Name on Card",
+          "type": "text",
+          "placeholder": "John M. Doe",
+          "colSpan": "md:col-span-1"
+        },
+        {
+          "id": "card-number",
+          "label": "Card Number",
+          "type": "text",
+          "placeholder": "1234 5678 9123 0000",
+          "colSpan": "md:col-span-1"
+        },
+        {
+          "id": "card-expiry",
+          "label": "Expiration (MM/YY)",
+          "type": "text",
+          "placeholder": "MM/YY",
+          "colSpan": "md:col-span-1"
+        },
+        {
+          "id": "card-cvc",
+          "label": "CVC",
+          "type": "text",
+          "placeholder": "123",
+          "colSpan": "md:col-span-1"
+        }
+      ]
+    }
+  ]
+}

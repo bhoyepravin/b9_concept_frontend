@@ -421,125 +421,113 @@ const SufferingSection = () => {
                           }
                         </h3>
 
-                        <div className="grid grid-cols-1 lg:grid-cols-2 gap-3 md:gap-4">
-                          {/* Left Column */}
-                          <div className="space-y-3 md:space-y-4">
-                            {/* Medical Definition */}
-                            <div className="bg-blue-50 rounded-lg md:rounded-xl p-2 md:p-3 border border-blue-100">
-                              <h4 className="text-sm md:text-base font-bold text-deep-blue mb-2 uppercase tracking-wider text-xs md:text-sm flex items-center">
-                                <span className="mr-1 md:mr-2">🩺</span>
-                                Medical Definition
-                              </h4>
-                              <p className="text-gray-700 leading-relaxed text-xs md:text-sm">
-                                {
-                                  selectedCategory.breakdown.conditions[
-                                    activeCondition
-                                  ].medicalDefinition
-                                }
-                              </p>
-                            </div>
-
-                            {/* Trauma Connection */}
-                            <div className="bg-purple-50 rounded-lg md:rounded-xl p-2 md:p-3 border border-purple-100">
-                              <h4 className="text-sm md:text-base font-bold text-deep-blue mb-2 uppercase tracking-wider text-xs md:text-sm flex items-center">
-                                <span className="mr-1 md:mr-2">💔</span>
-                                Trauma Connection
-                              </h4>
-                              <p className="text-gray-700 leading-relaxed text-xs md:text-sm">
-                                {
-                                  selectedCategory.breakdown.conditions[
-                                    activeCondition
-                                  ].traumaConnection
-                                }
-                              </p>
-                            </div>
-
-                            {/* Prevalence */}
-                            <div className="bg-green-50 rounded-lg md:rounded-xl p-2 md:p-3 border border-green-100">
-                              <h4 className="text-sm md:text-base font-bold text-deep-blue mb-2 uppercase tracking-wider text-xs md:text-sm flex items-center">
-                                <span className="mr-1 md:mr-2">📊</span>
-                                Prevalence & Statistics
-                              </h4>
-                              <p className="text-gray-700 leading-relaxed text-xs md:text-sm">
-                                {
-                                  selectedCategory.breakdown.conditions[
-                                    activeCondition
-                                  ].prevalence
-                                }
-                              </p>
-                            </div>
+                        <div className="grid grid-cols-1 md:grid-cols-2 gap-3 md:gap-4">
+                          {/* Medical Definition */}
+                          <div className="bg-blue-50 rounded-lg md:rounded-xl p-2 md:p-3 border border-blue-100">
+                            <h4 className="text-sm md:text-base font-bold text-deep-blue mb-2 uppercase tracking-wider text-xs md:text-sm flex items-center">
+                              <span className="mr-1 md:mr-2">🩺</span>
+                              Medical Definition
+                            </h4>
+                            <p className="text-gray-700 leading-relaxed text-xs md:text-sm">
+                              {
+                                selectedCategory.breakdown.conditions[
+                                  activeCondition
+                                ].medicalDefinition
+                              }
+                            </p>
                           </div>
 
-                          {/* Right Column */}
-                          <div className="space-y-3 md:space-y-4">
-                            {/* Symptoms */}
-                            {selectedCategory.breakdown.conditions[
-                              activeCondition
-                            ].symptoms && (
-                              <div className="bg-orange-50 rounded-lg md:rounded-xl p-2 md:p-3 border border-orange-100">
-                                <h4 className="text-sm md:text-base font-bold text-deep-blue mb-2 uppercase tracking-wider text-xs md:text-sm flex items-center">
-                                  <span className="mr-1 md:mr-2">🔍</span>
-                                  Common Symptoms
-                                </h4>
-                                <ul className="text-gray-700 leading-relaxed text-xs md:text-sm space-y-1 md:space-y-2">
-                                  {selectedCategory.breakdown.conditions[
-                                    activeCondition
-                                  ].symptoms.map((symptom, index) => (
-                                    <li
-                                      key={index}
-                                      className="flex items-start"
-                                    >
-                                      <span className="text-orange-500 mr-1 md:mr-2 mt-0.5 md:mt-1">
-                                        •
-                                      </span>
-                                      <span>{symptom}</span>
-                                    </li>
-                                  ))}
-                                </ul>
-                              </div>
-                            )}
-
-                            {/* Risk Factors */}
-                            {selectedCategory.breakdown.conditions[
-                              activeCondition
-                            ].riskFactors && (
-                              <div className="bg-red-50 rounded-lg md:rounded-xl p-2 md:p-3 border border-red-100">
-                                <h4 className="text-sm md:text-base font-bold text-deep-blue mb-2 uppercase tracking-wider text-xs md:text-sm flex items-center">
-                                  <span className="mr-1 md:mr-2">⚠️</span>
-                                  Risk Factors
-                                </h4>
-                                <ul className="text-gray-700 leading-relaxed text-xs md:text-sm space-y-1 md:space-y-2">
-                                  {selectedCategory.breakdown.conditions[
-                                    activeCondition
-                                  ].riskFactors.map((factor, index) => (
-                                    <li
-                                      key={index}
-                                      className="flex items-start"
-                                    >
-                                      <span className="text-red-500 mr-1 md:mr-2 mt-0.5 md:mt-1">
-                                        •
-                                      </span>
-                                      <span>{factor}</span>
-                                    </li>
-                                  ))}
-                                </ul>
-                              </div>
-                            )}
-
-                            {/* Treatment Limitations */}
-                            <div className="bg-gray-50 rounded-lg md:rounded-xl p-2 md:p-3 border border-gray-200">
+                          {/* Symptoms - Conditionally rendered */}
+                          {selectedCategory.breakdown.conditions[
+                            activeCondition
+                          ].symptoms && (
+                            <div className="bg-orange-50 rounded-lg md:rounded-xl p-2 md:p-3 border border-orange-100">
                               <h4 className="text-sm md:text-base font-bold text-deep-blue mb-2 uppercase tracking-wider text-xs md:text-sm flex items-center">
-                                <span className="mr-1 md:mr-2">💊</span>
-                                Current Treatment Limitations
+                                <span className="mr-1 md:mr-2">🔍</span>
+                                Common Symptoms
                               </h4>
-                              <p className="text-gray-700 leading-relaxed text-xs md:text-sm">
-                                {
-                                  selectedCategory.breakdown.conditions[
-                                    activeCondition
-                                  ].treatmentLimitations
-                                }
-                              </p>
+                              <ul className="text-gray-700 leading-relaxed text-xs md:text-sm space-y-1 md:space-y-2">
+                                {selectedCategory.breakdown.conditions[
+                                  activeCondition
+                                ].symptoms.map((symptom, index) => (
+                                  <li key={index} className="flex items-start">
+                                    <span className="text-orange-500 mr-1 md:mr-2 mt-0.5 md:mt-1">
+                                      •
+                                    </span>
+                                    <span>{symptom}</span>
+                                  </li>
+                                ))}
+                              </ul>
                             </div>
+                          )}
+
+                          {/* Trauma Connection */}
+                          <div className="bg-purple-50 rounded-lg md:rounded-xl p-2 md:p-3 border border-purple-100">
+                            <h4 className="text-sm md:text-base font-bold text-deep-blue mb-2 uppercase tracking-wider text-xs md:text-sm flex items-center">
+                              <span className="mr-1 md:mr-2">💔</span>
+                              Trauma Connection
+                            </h4>
+                            <p className="text-gray-700 leading-relaxed text-xs md:text-sm">
+                              {
+                                selectedCategory.breakdown.conditions[
+                                  activeCondition
+                                ].traumaConnection
+                              }
+                            </p>
+                          </div>
+
+                          {/* Risk Factors - Conditionally rendered */}
+                          {selectedCategory.breakdown.conditions[
+                            activeCondition
+                          ].riskFactors && (
+                            <div className="bg-red-50 rounded-lg md:rounded-xl p-2 md:p-3 border border-red-100">
+                              <h4 className="text-sm md:text-base font-bold text-deep-blue mb-2 uppercase tracking-wider text-xs md:text-sm flex items-center">
+                                <span className="mr-1 md:mr-2">⚠️</span>
+                                Risk Factors
+                              </h4>
+                              <ul className="text-gray-700 leading-relaxed text-xs md:text-sm space-y-1 md:space-y-2">
+                                {selectedCategory.breakdown.conditions[
+                                  activeCondition
+                                ].riskFactors.map((factor, index) => (
+                                  <li key={index} className="flex items-start">
+                                    <span className="text-red-500 mr-1 md:mr-2 mt-0.5 md:mt-1">
+                                      •
+                                    </span>
+                                    <span>{factor}</span>
+                                  </li>
+                                ))}
+                              </ul>
+                            </div>
+                          )}
+
+                          {/* Prevalence */}
+                          <div className="bg-green-50 rounded-lg md:rounded-xl p-2 md:p-3 border border-green-100">
+                            <h4 className="text-sm md:text-base font-bold text-deep-blue mb-2 uppercase tracking-wider text-xs md:text-sm flex items-center">
+                              <span className="mr-1 md:mr-2">📊</span>
+                              Prevalence & Statistics
+                            </h4>
+                            <p className="text-gray-700 leading-relaxed text-xs md:text-sm">
+                              {
+                                selectedCategory.breakdown.conditions[
+                                  activeCondition
+                                ].prevalence
+                              }
+                            </p>
+                          </div>
+
+                          {/* Treatment Limitations */}
+                          <div className="bg-gray-50 rounded-lg md:rounded-xl p-2 md:p-3 border border-gray-200">
+                            <h4 className="text-sm md:text-base font-bold text-deep-blue mb-2 uppercase tracking-wider text-xs md:text-sm flex items-center">
+                              <span className="mr-1 md:mr-2">💊</span>
+                              Current Treatment Limitations
+                            </h4>
+                            <p className="text-gray-700 leading-relaxed text-xs md:text-sm">
+                              {
+                                selectedCategory.breakdown.conditions[
+                                  activeCondition
+                                ].treatmentLimitations
+                              }
+                            </p>
                           </div>
                         </div>
 

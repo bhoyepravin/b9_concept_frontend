@@ -202,7 +202,7 @@ const VideoHeroSection = () => {
             initial="enter"
             animate="center"
             exit="exit"
-            className="w-full h-full relative"
+            className="w-full h-full relative "
           >
             {/* Video or Background */}
             {videoSource && !videoError ? (
@@ -213,7 +213,7 @@ const VideoHeroSection = () => {
                 loop={false} // Disable loop to detect ended event
                 muted
                 playsInline
-                className="absolute top-28 left-0 h-50 w-90 md:w-full md:h-full object-cover"
+                className="absolute top-28 left-0 h-50 w-full md:w-full md:h-full object-fit-cover"
                 onPlay={() => setIsVideoPlaying(true)}
                 onPause={() => setIsVideoPlaying(false)}
                 onError={handleVideoError}
